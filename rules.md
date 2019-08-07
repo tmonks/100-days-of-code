@@ -4,7 +4,7 @@
 ### *I will code for at least 45 minutes, 6 days a week, for 100 days.*
 
 #### Start Date
-June 25th, 2016. [PUT YOUR DATE HERE]
+August 8th, 2019
 
 ## Additional Rules
 1. I will tweet about my progress every day -> using the hashtag #100DaysOfCode
