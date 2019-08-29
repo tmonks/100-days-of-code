@@ -32,6 +32,8 @@ I could keep tweaking my Random Quote Machine project for weeks, but calling it 
 
 
 ### Day 6: August 28, Wednesday
-Had a productive day making a few last tweaks to my Random Quote Machine project. Implemented an initial loading message. Used git branching for the first time. Got IE11 working. Used the excellent 
-@tinyjpg to compress my background images
+Had a productive day making a few last tweaks to my Random Quote Machine project. Implemented an initial loading message. Used git branching for the first time. Got IE11 working. Used the excellent @tinyjpg to compress my background images
 
+
+### Day 7: August 29, Thursday
+I'm excited to have gotten a great start on my Markdown Previewer #freeCodeCamp project today. Set up create-react-app, reactstrap, & git repository. Created a rough outline, and got a controlled input working for the Markdown input.
