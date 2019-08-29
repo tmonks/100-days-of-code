@@ -1,30 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: August 21, Wednesday
+I'm finally committing to #100DaysOfCode. My primary goals are to complete the @freeCodeCamp Front-End Libraries certification, to learn to write useful web apps, and to get more involved in the community. Looking forward to coding along side you all!
 
 
-### Day 1: June 27, Monday
+### Day 1: August 22, Thursday
+Nearly finished with tweaking the layout of my Random Quote Machine @freeCodeCamp project. Hoping I get better and faster at design over time. Right now it feels totally like trial & error - I just keep trying different things until it doesn't look awful
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+### Day 2: August 23, Friday
+Nearly finished with my Random Quote Machine project. Improved handling of empty quote string using conditional rendering. Spent WAY too much time deciding on the hover effect for my buttons, but loving CSS transitions! #freeCodeCamp
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+
+### Day 3: August 25, Sunday
+Figured out how to publish my React app using GitHub Pages. I'm feeling good about learning git and moving to GitHub for my #freeCodeCamp projects. Much more intimidating than Codepen, but I think it's important to learn and it's starting to make sense
+
+
+### Day 4: August 26, Monday
+Polished up my code and made one last tweak to the button hover effect (last time, for real!). Did some testing in other browsers. Learned about polyfill for Promise support in IE, and that Firefox & IE don't support CSS transition on background-image :-\
+
+I loved the idea of a rotating background image for my Random Quote Machine project, but I'm not sure if it will be too bandwidth-intensive? All 6 images are <800KB combined.
+
+[Random Quote Machine live demo](https://tmonks.github.io/random-quote-machine)
+[Random Quote Machine git repository](https://github.com/tmonks/random-quote-machine)
+
+
+### Day 5: August 27, Tuesday
+Learned how to downgrade packages and resolve security vulnerabilities in npm
+
+I could keep tweaking my Random Quote Machine project for weeks, but calling it good enough and moving on to the next one. Pretty happy with how it turned out.  #freeCodeCamp 
+
+
+### Day 6: August 28, Wednesday
+Had a productive day making a few last tweaks to my Random Quote Machine project. Implemented an initial loading message. Used git branching for the first time. Got IE11 working. Used the excellent 
+@tinyjpg to compress my background images
+
