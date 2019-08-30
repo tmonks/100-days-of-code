@@ -37,3 +37,9 @@ Had a productive day making a few last tweaks to my Random Quote Machine project
 
 ### Day 7: August 29, Thursday
 I'm excited to have gotten a great start on my Markdown Previewer #freeCodeCamp project today. Set up create-react-app, reactstrap, & git repository. Created a rough outline, and got a controlled input working for the Markdown input.
+
+
+### Day 8: August 30, Friday
+More progress on my #freeCodeCamp Markdown Previewer. Added the react-fcctest and marked.js libraries and got all the tests passing! Even used DOMPurify to protect against XSS attacks. Now I just need to make the code and the UI much prettier!
+
+**Thoughts:** Really happy with how this is progressing. Only 2 days (couple hours) in, and I've already got most of the functionality done!
