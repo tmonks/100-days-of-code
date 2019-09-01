@@ -43,3 +43,8 @@ I'm excited to have gotten a great start on my Markdown Previewer #freeCodeCamp 
 More progress on my #freeCodeCamp Markdown Previewer. Added the react-fcctest and marked.js libraries and got all the tests passing! Even used DOMPurify to protect against XSS attacks. Now I just need to make the code and the UI much prettier!
 
 **Thoughts:** Really happy with how this is progressing. Only 2 days (couple hours) in, and I've already got most of the functionality done!
+
+### Day 9: August 30, Friday
+**Note to Self:** Counting Friday evening as my Day 9, since I got an extra hour+ in at the Barnes & Noble, but didn't do anything on Saturday since we went to Enchanted Forest
+
+Had the best time coding at Barnes & Noble while my wife shopped :-) There's nothing like coding with good coffee and good music. Got the design of my Markdown Previewer looking okay #reactjs #freeCodeCamp
