@@ -52,4 +52,5 @@ Did lots of fun things with the kids this weekend, but was able to fit in an hou
 
 I realized two things: 
 -'height: 100%' means 100% of the parent's height, even if there's a sibling element with a fixed height (like a navbar). 
-- By default, height is based on the height of content inside the element. To set it to anything less, you have to set the parent to a specific height (e.g. px, not %)
+- By default, height is based on the height of content inside the element. To set it to anything less, you have to set the parent to a specific height (e.g. px, not %). [Why doesn't percentage height work](https://stackoverflow.com/questions/5657964/css-why-doesn-t-percentage-height-work)
+
