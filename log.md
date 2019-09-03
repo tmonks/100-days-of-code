@@ -44,7 +44,12 @@ More progress on my #freeCodeCamp Markdown Previewer. Added the react-fcctest an
 
 **Thoughts:** Really happy with how this is progressing. Only 2 days (couple hours) in, and I've already got most of the functionality done!
 
-### Day 9: August 30, Friday
-**Note to Self:** Counting Friday evening as my Day 9, since I got an extra hour+ in at the Barnes & Noble, but didn't do anything on Saturday since we went to Enchanted Forest
+### Day 9: August 31, Saturday
+Had the best time coding at Barnes & Noble while my wife shopped :-) There's nothing like coding with good coffee and good music. Got the design of my Markdown Previewer looking okay #reactjs #freeCodeCampo
 
-Had the best time coding at Barnes & Noble while my wife shopped :-) There's nothing like coding with good coffee and good music. Got the design of my Markdown Previewer looking okay #reactjs #freeCodeCamp
+### Day 10: September 2, Monday
+Did lots of fun things with the kids this weekend, but was able to fit in an hour of coding last night. I struggled for a frustratingly long time with making the layout for my #freeCodeCamp Markdown Previewer full-height but without having a scroll bar! After lots of searching and trial & error, i think I finally have a handle on it.
+
+I realized two things: 
+-'height: 100%' means 100% of the parent's height, even if there's a sibling element with a fixed height (like a navbar). 
+- By default, height is based on the height of content inside the element. To set it to anything less, you have to set the parent to a specific height (e.g. px, not %)
