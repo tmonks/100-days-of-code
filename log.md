@@ -56,3 +56,6 @@ I realized two things:
 
 ### Day 11: September 3, Tuesday
 Struggled a little more with the full-height-without-scrollbar layout on my Markdown Previewer, but got it working. Tracked down the problem with navbar dark not having a white font. Getting better at tracking these things down in the Chrome Developer console!
+
+### Day 12: September 4, Wednesday
+Did a few more improvements to the styling (textarea & title) of my Markdown Previewer. Improved the sample markdown. Should be able to finish it up and submit it tomorrow.
