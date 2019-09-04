@@ -55,4 +55,4 @@ I realized two things:
 - By default, height is based on the height of content inside the element. To set it to anything less, you have to set the parent to a specific height (e.g. px, not %). [Why doesn't percentage height work](https://stackoverflow.com/questions/5657964/css-why-doesn-t-percentage-height-work)
 
 ### Day 11: September 3, Tuesday
-Struggled a little more with the full-height-without-scrollbar layout, but got it working. Tracked down the problem with navbar dark not having a white font. Getting better at tracking these things down in the Chrome Developer console!
+Struggled a little more with the full-height-without-scrollbar layout on my Markdown Previewer, but got it working. Tracked down the problem with navbar dark not having a white font. Getting better at tracking these things down in the Chrome Developer console!
