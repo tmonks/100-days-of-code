@@ -60,3 +60,6 @@ Struggled a little more with the full-height-without-scrollbar layout on my Mark
 ### Day 12: September 4, Wednesday
 Nearly done with my #freeCodeCamp Markdown Previewer. Made a few more improvements to the styling (textarea & title). Improved the sample markdown. Took a few notes to so I would remember the new things I learned. Should be able to finish it up and submit it tomorrow.
 
+### Day 13: September 5, Thursday
+Finished up and submitted my Markdown Previewer project! Two front-end library projects down, 3 to go. Looking forward to tackling the drum machine project next. Looks like fun! @freeCodeCamp
+https://tmonks.github.io/markdown-previewer/
