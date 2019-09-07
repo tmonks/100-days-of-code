@@ -63,3 +63,6 @@ Nearly done with my #freeCodeCamp Markdown Previewer. Made a few more improvemen
 ### Day 13: September 5, Thursday
 Finished up and submitted my Markdown Previewer project! Two front-end library projects down, 3 to go. Looking forward to tackling the drum machine project next. Looks like fun! @freeCodeCamp
 https://tmonks.github.io/markdown-previewer/
+
+### Day 14: September 6, Friday
+Started on my #freeCodeCamp Drum Machine project. Did some initial research and planning, got the React app setup, and drafted the initial layout. I'm a bit rusty on CSS Grid, but I found this excellent visual cheat sheet: http://grid.malven.co/
