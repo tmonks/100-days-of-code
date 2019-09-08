@@ -66,3 +66,6 @@ https://tmonks.github.io/markdown-previewer/
 
 ### Day 14: September 6, Friday
 Started on my #freeCodeCamp Drum Machine project. Did some initial research and planning, got the React app setup, and drafted the initial layout. I'm a bit rusty on CSS Grid, but I found this excellent visual cheat sheet: http://grid.malven.co/
+
+### Day 15: September 7, Saturday
+Had a great afternoon yesterday coding at the coffee shop. Got my drum machine playing audio and reacting to keypresses. I'm not quite sure how to pass keyboard events down to the children components, but I'm obsessed with figuring it out. I woke up and was thinking about it in the middle of the night! Not sure how I'm going to let it go today so I can enjoy time with the girls and get some chores done.
