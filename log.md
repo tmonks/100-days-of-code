@@ -69,3 +69,6 @@ Started on my #freeCodeCamp Drum Machine project. Did some initial research and 
 
 ### Day 15: September 7, Saturday
 Had a great afternoon yesterday coding at the coffee shop. Got my drum machine playing audio and reacting to keypresses. I'm not quite sure how to pass keyboard events down to the children components, but I'm obsessed with figuring it out. I woke up and was thinking about it in the middle of the night! Not sure how I'm going to let it go today so I can enjoy time with the girls and get some chores done.
+
+### Day 16: September 9, Monday
+After much Googling about audio playback and React Hooks on Sunday, my coding session went great and according to plan today. I got the audio to play in a child component from a change in state in the parent, as triggered by mouse click or keypress. Awesome! Now I don't feel like all my obsessive Googling during every spare minute over the weekend was a waste! 
