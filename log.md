@@ -72,3 +72,6 @@ Had a great afternoon yesterday coding at the coffee shop. Got my drum machine p
 
 ### Day 16: September 9, Monday
 After much Googling about audio playback and React Hooks on Sunday, my coding session went great and according to plan today. I got the audio to play in a child component from a change in state in the parent, as triggered by mouse click or keypress. Awesome! Now I don't feel like all my obsessive Googling during every spare minute over the weekend was a waste! 
+
+### Day 17: September 10, Tuesday
+Refactored my main App component on my #freeCodeCamp Drum Machine using React Hooks. Hit a couple snags but got it working in the end. In a good position to start building out the data model for all the drum pads tomorrow. This is my first project using Hooks, but liking them so far!
