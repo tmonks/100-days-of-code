@@ -77,4 +77,4 @@ After much Googling about audio playback and React Hooks on Sunday, my coding se
 Refactored my main App component on my #freeCodeCamp Drum Machine using React Hooks. Hit a couple snags but got it working in the end. In a good position to start building out the data model for all the drum pads tomorrow. This is my first project using Hooks, but liking them so far!
 
 ### Day 18: September 11, Wednesday
-Implemented data structure and state to track configuration and hit status for 9 drum pads on my Drum Machine app. Used Array.map() to render the drum pads from the configuration array. Getting close to having it fully functional. This is SO MUCH FUN!
+Implemented data structure and state to track all details of the drum pads, and render them using map() on my #freeCodeCamp Drum Machine app. It was tricky, but fun to figure out. I'm enjoying this project so much, it's really hard to stop working on it!
