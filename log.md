@@ -81,3 +81,8 @@ Implemented data structure and state to track all details of the drum pads, and 
 
 ### Day 19: September 12, Thursday
 Got most of the tests passing on my #freeCodeCamp drum machine. Had trouble linking all the audio files without importing them all one by one. After some more obsessive Googling, I figured out how to put them in the public folder & ended the day on a good note
+
+### Day 20: September 13, Friday
+D20 #100DaysOfCode
+Got all of the #freeCodeCamp tests passing on my drum machine! Before I submit it, I still want to improve the design and figure out how to fix the warnings I'm getting, but I'm getting close. My kids are excited to play with it anyway :-)
+
