@@ -78,3 +78,6 @@ Refactored my main App component on my #freeCodeCamp Drum Machine using React Ho
 
 ### Day 18: September 11, Wednesday
 Implemented data structure and state to track all details of the drum pads, and render them using map() on my #freeCodeCamp Drum Machine app. It was tricky, but fun to figure out. I'm enjoying this project so much, it's really hard to stop working on it!
+
+### Day 19: September 12, Thursday
+Got most of the tests passing on my #freeCodeCamp drum machine. Had trouble linking all the audio files without importing them all one by one. After some more obsessive Googling, I figured out how to put them in the public folder & ended the day on a good note
