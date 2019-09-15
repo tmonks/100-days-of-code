@@ -86,3 +86,5 @@ Got most of the tests passing on my #freeCodeCamp drum machine. Had trouble link
 D20 #100DaysOfCode
 Got all of the #freeCodeCamp tests passing on my drum machine! Before I submit it, I still want to improve the design and figure out how to fix the warnings I'm getting, but I'm getting close. My kids are excited to play with it anyway :-)
 
+### Day 21: September 14, Saturday
+D21 #100DaysOfCode Found some good MP3 sound clips from sampleswap.org which load much faster than the WAV files on my drum machine. Watched some Youtube videos while washing the dishes to learn more about the useEffect warnings I'm getting and resolved my last one. #freeCodeCamp
