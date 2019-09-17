@@ -88,3 +88,7 @@ Got all of the #freeCodeCamp tests passing on my drum machine! Before I submit i
 
 ### Day 21: September 14, Saturday
 D21 #100DaysOfCode Found some good MP3 sound clips from sampleswap.org which load much faster than the WAV files on my drum machine. Watched some Youtube videos while washing the dishes to learn more about the useEffect warnings I'm getting and resolved my last one. #freeCodeCamp
+
+### Day 22: September 16, Monday
+D22 #100DaysOfCode #freeCodeCamp
+Found some cool CSS tricks and had fun experimenting with a retro design for my drum machine app.
