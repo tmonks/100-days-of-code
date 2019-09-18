@@ -92,3 +92,7 @@ D21 #100DaysOfCode Found some good MP3 sound clips from sampleswap.org which loa
 ### Day 22: September 16, Monday
 D22 #100DaysOfCode #freeCodeCamp
 Found some cool CSS tricks and had fun experimenting with a retro design for my drum machine app.
+
+### Day 33: September 17, Tuesday
+D23 #100DaysOfCode #freeCodeCamp
+Worked on a keyframe button click animation on my drum machine. The CSS transition approach wasn't working on mobile devices, since there seems to be 0 delay between the mousedown and mouseup events. Enjoying the process of figuring it out anyway
