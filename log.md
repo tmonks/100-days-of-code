@@ -102,3 +102,9 @@ D24 #100DaysOfCode #freeCodeCamp
 The keyframe animation on the drum pads worked out, so now my click effect works on touch screens. There's probably a better way, but this seems to work pretty well. Feels good when a plan comes together 😁
 
 https://tmonks.github.io/drum-machine/
+
+### Day 25: September 19, Thursday
+D25 #100DaysOfCode #freeCodeCamp 
+Used Sass for the first time. Using variables for the colors made it so much easier to play around with different color schemes. Also moved the display to its own component and added left/right buttons which I'll use to switch the bank.
+
+![screenshot of drum-machine app](https://twitter.com/TheTomMonks/status/1174970760474980352/photo/1)
