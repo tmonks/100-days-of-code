@@ -108,3 +108,8 @@ D25 #100DaysOfCode #freeCodeCamp
 Used Sass for the first time. Using variables for the colors made it so much easier to play around with different color schemes. Also moved the display to its own component and added left/right buttons which I'll use to switch the bank.
 
 ![screenshot of drum-machine app](https://twitter.com/TheTomMonks/status/1174970760474980352/photo/1)
+
+### Day 26: September 20, Friday
+D26 #100DaysOfCode #freeCodeCamp
+Implemented a separate BankSelector component to select different sound banks. Downloaded clips and set up the JSON for 4 more sound banks. Found some my kids will have fun with - animal sounds, cartoon sounds, beat boxing, & Donkey Kong 😀
+![screenshot of drum machine with bank selector](https://pbs.twimg.com/media/EE-6NJKWsAIErN4?format=png&name=small)
