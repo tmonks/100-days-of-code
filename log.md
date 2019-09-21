@@ -30,6 +30,8 @@ Learned how to downgrade packages and resolve security vulnerabilities in npm
 
 I could keep tweaking my Random Quote Machine project for weeks, but calling it good enough and moving on to the next one. Pretty happy with how it turned out.  #freeCodeCamp 
 
+![Random Quote Machine finished](https://pbs.twimg.com/media/EDC5CLQWkAEMlZv?format=png&name=900x900)
+
 
 ### Day 6: August 28, Wednesday
 Had a productive day making a few last tweaks to my Random Quote Machine project. Implemented an initial loading message. Used git branching for the first time. Got IE11 working. Used the excellent @tinyjpg to compress my background images
@@ -42,10 +44,14 @@ I'm excited to have gotten a great start on my Markdown Previewer #freeCodeCamp 
 ### Day 8: August 30, Friday
 More progress on my #freeCodeCamp Markdown Previewer. Added the react-fcctest and marked.js libraries and got all the tests passing! Even used DOMPurify to protect against XSS attacks. Now I just need to make the code and the UI much prettier!
 
+![Markdown Previewer with all tests passing](https://pbs.twimg.com/media/EDP8YohXsAA05AN?format=jpg&name=small)
+
 **Thoughts:** Really happy with how this is progressing. Only 2 days (couple hours) in, and I've already got most of the functionality done!
 
 ### Day 9: August 31, Saturday
 Had the best time coding at Barnes & Noble while my wife shopped :-) There's nothing like coding with good coffee and good music. Got the design of my Markdown Previewer looking okay #reactjs #freeCodeCampo
+
+![Markdown Previewer improved design](https://pbs.twimg.com/media/EDYHbC0W4AIr2zS?format=jpg&name=small)
 
 ### Day 10: September 2, Monday
 Did lots of fun things with the kids this weekend, but was able to fit in an hour of coding last night. I struggled for a frustratingly long time with making the layout for my #freeCodeCamp Markdown Previewer full-height but without having a scroll bar! After lots of searching and trial & error, i think I finally have a handle on it.
@@ -59,6 +65,8 @@ Struggled a little more with the full-height-without-scrollbar layout on my Mark
 
 ### Day 12: September 4, Wednesday
 Nearly done with my #freeCodeCamp Markdown Previewer. Made a few more improvements to the styling (textarea & title). Improved the sample markdown. Took a few notes to so I would remember the new things I learned. Should be able to finish it up and submit it tomorrow.
+
+![Markdown Previewer app nearly finished](https://pbs.twimg.com/media/EDsC4C0WsAAgHGD?format=jpg&name=small)
 
 ### Day 13: September 5, Thursday
 Finished up and submitted my Markdown Previewer project! Two front-end library projects down, 3 to go. Looking forward to tackling the drum machine project next. Looks like fun! @freeCodeCamp
@@ -86,12 +94,16 @@ Got most of the tests passing on my #freeCodeCamp drum machine. Had trouble link
 D20 #100DaysOfCode
 Got all of the #freeCodeCamp tests passing on my drum machine! Before I submit it, I still want to improve the design and figure out how to fix the warnings I'm getting, but I'm getting close. My kids are excited to play with it anyway :-)
 
+![drum machine all tests passing](https://pbs.twimg.com/media/EEal_y1XoAEsfLB?format=png&name=small)
+
 ### Day 21: September 14, Saturday
 D21 #100DaysOfCode Found some good MP3 sound clips from sampleswap.org which load much faster than the WAV files on my drum machine. Watched some Youtube videos while washing the dishes to learn more about the useEffect warnings I'm getting and resolved my last one. #freeCodeCamp
 
 ### Day 22: September 16, Monday
 D22 #100DaysOfCode #freeCodeCamp
 Found some cool CSS tricks and had fun experimenting with a retro design for my drum machine app.
+
+![drum machine with retro design](https://pbs.twimg.com/media/EEpx4VvWsAAD-SE?format=jpg&name=small)
 
 ### Day 23: September 17, Tuesday
 D23 #100DaysOfCode #freeCodeCamp
@@ -107,7 +119,7 @@ https://tmonks.github.io/drum-machine/
 D25 #100DaysOfCode #freeCodeCamp 
 Used Sass for the first time. Using variables for the colors made it so much easier to play around with different color schemes. Also moved the display to its own component and added left/right buttons which I'll use to switch the bank.
 
-![screenshot of drum-machine app](https://twitter.com/TheTomMonks/status/1174970760474980352/photo/1)
+![screenshot of drum-machine app](https://pbs.twimg.com/media/EE5VrPOU4AkvpUB?format=png&name=small)
 
 ### Day 26: September 20, Friday
 D26 #100DaysOfCode #freeCodeCamp
