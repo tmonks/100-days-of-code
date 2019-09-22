@@ -125,3 +125,9 @@ Used Sass for the first time. Using variables for the colors made it so much eas
 D26 #100DaysOfCode #freeCodeCamp
 Implemented a separate BankSelector component to select different sound banks. Downloaded clips and set up the JSON for 4 more sound banks. Found some my kids will have fun with - animal sounds, cartoon sounds, beat boxing, & Donkey Kong 😀
 ![screenshot of drum machine with bank selector](https://pbs.twimg.com/media/EE-6NJKWsAIErN4?format=png&name=small)
+
+### Day 27: September 21, Saturday
+D27 #100DaysOfCode #freeCodeCamp
+Figured out the weird "uncaught DOMExceptions" I was getting only during the FCC tests. Turns out it's because audio.play() returns a Promise and I wasn't handling it that way. Glad to have that figured out! 😌
+
+https://developers.google.com/web/updates/2017/06/play-request-was-interrupted
