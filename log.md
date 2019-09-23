@@ -131,3 +131,10 @@ D27 #100DaysOfCode #freeCodeCamp
 Figured out the weird "uncaught DOMExceptions" I was getting only during the FCC tests. Turns out it's because audio.play() returns a Promise and I wasn't handling it that way. Glad to have that figured out! 😌
 
 https://developers.google.com/web/updates/2017/06/play-request-was-interrupted
+
+### Day 28: September 22, Sunday
+D28 #100DaysOfCode #freeCodeCamp
+Refactored my data structure to work better with multiple sound banks on my drum machine. I like this approach so much better. Now it's easy to drop in and reorder sounds. A couple bugs to work out and then I'll be done!
+https://tmonks.github.io/drum-machine/
+
+It's usually hard to find time to code on the weekends, but yesterday I involved my daughters to help test my drum machine. They had a great time with it, and my youngest (with her furious clicking & dragging) discovered a bug I never would have!
