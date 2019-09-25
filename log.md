@@ -138,3 +138,15 @@ Refactored my data structure to work better with multiple sound banks on my drum
 https://tmonks.github.io/drum-machine/
 
 It's usually hard to find time to code on the weekends, but yesterday I involved my daughters to help test my drum machine. They had a great time with it, and my youngest (with her furious clicking & dragging) discovered a bug I never would have!
+
+
+### Day 30: September 24, Tuesday
+D30 #100DaysOfCode #freeCodeCamp
+3 down, 2 to go! I optimized, commented, & polished up all my code and submitted my drum machine project 🥳
+
+https://tmonks.github.io/drum-machine/
+
+Looking forward to starting the JavaScript Calculator next!
+
+![3 of 5 Front-End Libraries Projects Complete](https://pbs.twimg.com/media/EFT9OYwW4AAIUeK?format=png&name=small)
+
