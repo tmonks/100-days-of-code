@@ -160,3 +160,7 @@ Needed to brush up on CSS Grid before starting the calculator project. I watched
 https://codepen.io/monksy/pen/OJLqogz
 
 ![Codepen: CSS Grid Test - Calculator](https://pbs.twimg.com/card_img/1177147357647056901/2ZxDo11l?format=png&name=small)
+
+### Day 32: September 26, Thursday
+D32 #100DaysOfCode #freeCodeCamp
+Set up the React app for my calculator app, initial style, Sass, state, and functionality to update the display. Got half of the FCC tests passing. Super excited that I only had to look up syntax once! (useState hook)
