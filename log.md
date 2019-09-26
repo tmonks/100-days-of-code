@@ -142,3 +142,14 @@ It's usually hard to find time to code on the weekends, but yesterday I involved
 ### Day 29: September 23, Monday
 D29 #100DaysOfCode #freeCodeCamp
 Fixed two bugs on my drum machine. Learned how to use useCallback hook. Improved the logic so that the animations are consistent between keyboard & mouse presses. All I need to do now is polish up my code. Looking forward to starting the next one!
+
+### Day 30: September 24, Tuesday
+D30 #100DaysOfCode #freeCodeCamp
+3 down, 2 to go! I optimized, commented, & polished up all my code and submitted my drum machine project 🥳
+
+https://tmonks.github.io/drum-machine/
+
+Looking forward to starting the JavaScript Calculator next!
+
+![3 of 5 Front-End Libraries Projects Complete](https://pbs.twimg.com/media/EFT9OYwW4AAIUeK?format=png&name=small)
+
