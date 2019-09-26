@@ -153,3 +153,8 @@ Looking forward to starting the JavaScript Calculator next!
 
 ![3 of 5 Front-End Libraries Projects Complete](https://pbs.twimg.com/media/EFT9OYwW4AAIUeK?format=png&name=small)
 
+### Day 31: September 25, Wednesday
+D31 #100DaysOfCode #freeCodeCamp
+Needed to brush up on CSS Grid before starting the calculator project. I watched some good YouTube videos during my workout and got a better handle on it. Improved my drum machine layout and drafted one for the calculator
+
+https://codepen.io/monksy/pen/OJLqogz
