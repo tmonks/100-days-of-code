@@ -158,3 +158,5 @@ D31 #100DaysOfCode #freeCodeCamp
 Needed to brush up on CSS Grid before starting the calculator project. I watched some good YouTube videos during my workout and got a better handle on it. Improved my drum machine layout and drafted one for the calculator
 
 https://codepen.io/monksy/pen/OJLqogz
+
+![Codepen: CSS Grid Test - Calculator](https://pbs.twimg.com/card_img/1177147357647056901/2ZxDo11l?format=png&name=small)
