@@ -138,3 +138,7 @@ Refactored my data structure to work better with multiple sound banks on my drum
 https://tmonks.github.io/drum-machine/
 
 It's usually hard to find time to code on the weekends, but yesterday I involved my daughters to help test my drum machine. They had a great time with it, and my youngest (with her furious clicking & dragging) discovered a bug I never would have!
+
+### Day 29: September 23, Monday
+D29 #100DaysOfCode #freeCodeCamp
+Fixed two bugs on my drum machine. Learned how to use useCallback hook. Improved the logic so that the animations are consistent between keyboard & mouse presses. All I need to do now is polish up my code. Looking forward to starting the next one!
