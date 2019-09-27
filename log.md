@@ -163,4 +163,6 @@ https://codepen.io/monksy/pen/OJLqogz
 
 ### Day 32: September 26, Thursday
 D32 #100DaysOfCode #freeCodeCamp
-Set up the React app for my calculator app, initial style, Sass, state, and functionality to update the display. Got half of the FCC tests passing. Super excited that I only had to look up syntax once! (useState hook)
+Wrote the first draft of my calculator app. Set up the React app, the initial style, state, and functionality to update the display. Got half of the FCC tests passing. Super excited that did all this and only had to look up syntax for one line!
+
+![Calculator App with 8/16 Tests Passing](https://pbs.twimg.com/media/EFdXSm-UYAA8mSU?format=png&name=small)
