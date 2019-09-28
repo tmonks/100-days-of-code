@@ -165,4 +165,10 @@ https://codepen.io/monksy/pen/OJLqogz
 D32 #100DaysOfCode #freeCodeCamp
 Wrote the first draft of my calculator app. Set up the React app, the initial style, state, and functionality to update the display. Got half of the FCC tests passing. Super excited that did all this and only had to look up syntax for one line!
 
-![Calculator App with 8/16 Tests Passing](https://pbs.twimg.com/media/EFdXSm-UYAA8mSU?format=png&name=small)
+![Calculator app with 8/16 tests passing](https://pbs.twimg.com/media/EFdXSm-UYAA8mSU?format=png&name=small)
+
+### Day 33: September 27, Friday
+D33 #100DaysOfCode #freeCodeCamp
+Worked on the input and calculation logic and got all but one test passing! My idea to use recursion to solve the equations actually worked out. I love it when I find a real reason to use recursion, it feels a little bit like magic 🧙 🤓 
+
+![Calculator app with 15/16 tests passing](https://pbs.twimg.com/media/EFigkdDX0AIYfBd?format=png&name=small)
