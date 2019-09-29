@@ -172,3 +172,7 @@ D33 #100DaysOfCode #freeCodeCamp
 Worked on the input and calculation logic and got all but one test passing! My idea to use recursion to solve the equations actually worked out. I love it when I find a real reason to use recursion, it feels a little bit like magic 🧙 🤓 
 
 ![Calculator app with 15/16 tests passing](https://pbs.twimg.com/media/EFigkdDX0AIYfBd?format=png&name=small)
+
+### Day 34: September 28, Saturday
+D34 #100DaysOfCode #freeCodeCamp
+Rewrote the input handling algorithm on my calculator app to make it more graceful. Still failing one test, but getting closer. Can't stop thinking about it, so I carried around 3x5 cards to work on the algorithm whenever I got a spare minute 🤓
