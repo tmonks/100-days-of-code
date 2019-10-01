@@ -176,3 +176,13 @@ Worked on the input and calculation logic and got all but one test passing! My i
 ### Day 34: September 28, Saturday
 D34 #100DaysOfCode #freeCodeCamp
 Rewrote the input handling algorithm on my calculator app to make it more graceful. Still failing one test, but getting closer. Can't stop thinking about it, so I carried around 3x5 cards to work on the algorithm whenever I got a spare minute 🤓
+
+### Day 35: September 29, Sunday
+D35 #100DaysOfCode #freeCodeCamp
+Got up at 5am to work on my calculator app for a little while in the hotel lobby (on a weekend trip with my family). The new approach to my input algorithm worked, and I got the last test to pass!
+
+https://tmonks.github.io/js-calculator/
+
+![Calculator app with all tests passing](https://pbs.twimg.com/media/EFs3nfCXkAEjgiR?format=png&name=small)
+
+**Thoughts:** Really happy with how this one is going. I thought it was going to be a really hard one, but after only about 3.5 hours of coding (and a lot of offline thinking), I've got all the test passing and I didn't even use `eval()`. 
