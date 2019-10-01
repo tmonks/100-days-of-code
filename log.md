@@ -186,3 +186,10 @@ https://tmonks.github.io/js-calculator/
 ![Calculator app with all tests passing](https://pbs.twimg.com/media/EFs3nfCXkAEjgiR?format=png&name=small)
 
 **Thoughts:** Really happy with how this one is going. I thought it was going to be a really hard one, but after only about 3.5 hours of coding (and a lot of offline thinking), I've got all the test passing and I didn't even use `eval()`. 
+### Day 36: September 30, Monday
+D36 #100DaysOfCode #freeCodeCamp 
+Added a one-line history and a live calculation result to the display of my calculator. Worked out a design I like a lot better. 
+
+https://tmonks.github.io/js-calculator/
+
+![Calculator app with improved display and design](https://twitter.com/i/status/1178952454475587584)
