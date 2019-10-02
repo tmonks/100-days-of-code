@@ -193,3 +193,9 @@ Added a one-line history and a live calculation result to the display of my calc
 https://tmonks.github.io/js-calculator/
 
 ![Calculator app with improved display and design](https://twitter.com/i/status/1178952454475587584)
+
+### Day 37: October 1, Tuesday
+D37 #100DaysOfCode #freeCodeCamp
+Worked on improving the responsiveness of my calculator. Got the display to handle long lines of input without breaking. Took some trial and error, but got there in the end 😅
+
+https://tmonks.github.io/js-calculator/
