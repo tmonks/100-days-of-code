@@ -199,3 +199,11 @@ D37 #100DaysOfCode #freeCodeCamp
 Worked on improving the responsiveness of my calculator. Got the display to handle long lines of input without breaking. Took some trial and error, but got there in the end 😅
 
 https://tmonks.github.io/js-calculator/
+
+### Day 38: October 2, Wednesday
+D38 #100DaysOfCode #freeCodeCamp
+Refactored the code for my calculator into separate click handling functions to make it easier to read and understand. Implemented a backspace button. Just a little more polishing to do, and I'm going wrap this one up.
+
+https://tmonks.github.io/js-calculator/
+
+![Calculator app with backspace button](https://pbs.twimg.com/media/EF8OPpAXoAAne95?format=png&name=small)
