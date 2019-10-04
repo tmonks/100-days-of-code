@@ -209,3 +209,8 @@ Refactored the code for my calculator into separate click handling functions to 
 https://tmonks.github.io/js-calculator/
 
 ![Calculator app with backspace button](https://pbs.twimg.com/media/EF8OPpAXoAAne95?format=png&name=small)
+
+### Day 39: October 3, Thursday
+D39 #100DaysOfCode #freeCodeCamp
+Made various improvements to my calculator that were on my list - better file organization, simplified  clickNumber function (40 to 25 lines), better handling of numbers when a new solution is displayed. It's almost done!
+https://tmonks.github.io/js-calculator/
