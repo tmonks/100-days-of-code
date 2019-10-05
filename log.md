@@ -214,3 +214,12 @@ https://tmonks.github.io/js-calculator/
 D39 #100DaysOfCode #freeCodeCamp
 Made various improvements to my calculator that were on my list - better file organization, simplified  clickNumber function (40 to 25 lines), better handling of numbers when a new solution is displayed. It's almost done!
 https://tmonks.github.io/js-calculator/
+
+### Day 40: October 4, Friday
+D40 #100DaysOfCode #freeCodeCamp
+Finished cleaning up and commenting my code, and submitted my calculator app. 
+https://tmonks.github.io/js-calculator/
+
+4 down, 1 to go! I'm looking forward to starting the pomodoro clock, my last project for the front-end libraries certification.
+
+![4 of 5 front-end libraries projects complete](https://pbs.twimg.com/media/EGG0V1UWkAER0rj?format=png&name=small)
