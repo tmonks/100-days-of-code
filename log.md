@@ -223,3 +223,10 @@ https://tmonks.github.io/js-calculator/
 4 down, 1 to go! I'm looking forward to starting the pomodoro clock, my last project for the front-end libraries certification.
 
 ![4 of 5 front-end libraries projects complete](https://pbs.twimg.com/media/EGG0V1UWkAER0rj?format=png&name=small)
+
+### Day 41: October 5, Saturday
+D41 #100DaysOfCode
+Did couple katas on CodeWars. They are so addicting, I can't stop thinking about them until they're solved. I like that I can learn from others' solutions afterwards. I'm trying hard to be inspired (and not depressed) by how much better they are than mine!
+
+[Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - feel like my solution to this one was fairly clever :-)
+[Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) - this one was challenging. I feel like the top solutions were much better than mine, and I'm still working on understanding some of them!
