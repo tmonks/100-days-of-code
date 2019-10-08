@@ -230,3 +230,7 @@ Did couple katas on CodeWars. They are so addicting, I can't stop thinking about
 
 [Find the odd int](https://www.codewars.com/kata/54da5a58ea159efa38000836) - feel like my solution to this one was fairly clever :-)
 [Maximum subarray sum](https://www.codewars.com/kata/54521e9ec8e60bc4de000d6c) - this one was challenging. I feel like the top solutions were much better than mine, and I'm still working on understanding some of them!
+
+### Day 42: October 7, Monday
+D42 #100DaysOfCode #freeCodeCamp
+Started setting up my pomodoro clock app with Redux (thanks to all those who encouragemed me to give it a try!). Got the basics in place - state for session times, actions (increment/decrement, play/pause, countdown), and reducers. So far so good.
