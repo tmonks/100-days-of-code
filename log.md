@@ -234,3 +234,10 @@ Did couple katas on CodeWars. They are so addicting, I can't stop thinking about
 ### Day 42: October 7, Monday
 D42 #100DaysOfCode #freeCodeCamp
 Started setting up my pomodoro clock app with Redux (thanks to all those who encouragemed me to give it a try!). Got the basics in place - state for session times, actions (increment/decrement, play/pause, countdown), and reducers. So far so good.
+
+### Day 43: October 8, Tuesday
+D43 #100DaysOfCode #freeCodeCamp
+Coded along with a great YouTube tutorial on Redux
+https://youtube.com/watch?v=nrg7zhgJd4w
+
+I was good up to part 7, then got a little overwhelmed by  the file organization for the components, store, actions, & reducers and mapping state & dispatch to props 🥴
