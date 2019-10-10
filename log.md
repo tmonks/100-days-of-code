@@ -241,3 +241,9 @@ Coded along with a great YouTube tutorial on Redux
 https://youtube.com/watch?v=nrg7zhgJd4w
 
 I was good up to part 7, then got a little overwhelmed by  the file organization for the components, store, actions, & reducers and mapping state & dispatch to props 🥴
+
+### Day 44: October 9, Wednesday
+D44 #100DaysOfCode #freeCodeCamp
+Mindmapped out the details of my pomodoro timer (thanks @rdnkta!). Reorganized my files. Implemented new reducers. Was totally puzzled by some weird behavior while testing them, then finally realized I was making a shallow copy of an array 😬
+
+***Thoughts:*** The domain-based file organization makes a lot more sense to me (keeping all the files for the timer in one folder, rather than grouping them by component, reducer, etc). 
