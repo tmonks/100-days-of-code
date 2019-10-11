@@ -247,3 +247,9 @@ D44 #100DaysOfCode #freeCodeCamp
 Mindmapped out the details of my pomodoro timer (thanks @rdnkta!). Reorganized my files. Implemented new reducers. Was totally puzzled by some weird behavior while testing them, then finally realized I was making a shallow copy of an array 😬
 
 ***Thoughts:*** The domain-based file organization makes a lot more sense to me (keeping all the files for the timer in one folder, rather than grouping them by component, reducer, etc). 
+
+### Day 45: October 10, Thursday
+D45 #100DaysOfCode #freeCodeCamp
+Got my pomodoro timer components connected to the Redux store. It's not pretty yet, but I implemented some basic functionality. I'm liking Redux so far, but I need to learn where best to implement the business logic and side effects. 
+
+[Animation of first draft of pomodoro timer](https://twitter.com/i/status/1182578627168391168)
