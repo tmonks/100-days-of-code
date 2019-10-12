@@ -253,3 +253,9 @@ D45 #100DaysOfCode #freeCodeCamp
 Got my pomodoro timer components connected to the Redux store. It's not pretty yet, but I implemented some basic functionality. I'm liking Redux so far, but I need to learn where best to implement the business logic and side effects. 
 
 [Animation of first draft of pomodoro timer](https://twitter.com/i/status/1182578627168391168)
+
+### Day 46: October 11, Friday
+D46 #100DaysOfCode #freeCodeCamp
+I've settled on putting the timer logic inside functions in the parent App component. They handle the interval, then dispatch actions to Redux store. Seems like it will work ok. Added the FCC test suite and got 21/29 of the tests passing
+
+![Pomodoro timer with 21/29 tests passing](https://pbs.twimg.com/media/EGqy8rVWwAAO_lj?format=jpg&name=small)
