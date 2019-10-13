@@ -259,3 +259,9 @@ D46 #100DaysOfCode #freeCodeCamp
 I've settled on putting the timer logic inside functions in the parent App component. They handle the interval, then dispatch actions to Redux store. Seems like it will work ok. Added the FCC test suite and got 21/29 of the tests passing
 
 ![Pomodoro timer with 21/29 tests passing](https://pbs.twimg.com/media/EGqy8rVWwAAO_lj?format=jpg&name=small)
+
+### Day 47: October 12, Saturday
+D47 #100DaysOfCode #freeCodeCamp
+Snuck in a little coding time while grilling the chicken yesterday 😁 and learned about redux-thunk. It was intimidating at first, but turns out it's really not that complicated, and it's so powerful. Got first one working in my pomodoro timer 💪
+
+I feel like redux-thunk is the piece of #redux I've been missing. It allows you to create smart action-creators with access to dispatch() and global state using getState(). Now I have a place for logic with access to all slices of state!
