@@ -233,7 +233,7 @@ Did couple katas on CodeWars. They are so addicting, I can't stop thinking about
 
 ### Day 42: October 7, Monday
 D42 #100DaysOfCode #freeCodeCamp
-Started setting up my pomodoro clock app with Redux (thanks to all those who encouragemed me to give it a try!). Got the basics in place - state for session times, actions (increment/decrement, play/pause, countdown), and reducers. So far so good.
+Started setting up my pomodoro clock app with Redux (thanks to all those who encouraged me to give it a try!). Got the basics in place - state for session times, actions (increment/decrement, play/pause, countdown), and reducers. So far so good.
 
 ### Day 43: October 8, Tuesday
 D43 #100DaysOfCode #freeCodeCamp
@@ -265,3 +265,10 @@ D47 #100DaysOfCode #freeCodeCamp
 Snuck in a little coding time while grilling the chicken yesterday 😁 and learned about redux-thunk. It was intimidating at first, but turns out it's really not that complicated, and it's so powerful. Got first one working in my pomodoro timer 💪
 
 I feel like redux-thunk is the piece of #redux I've been missing. It allows you to create smart action-creators with access to dispatch() and global state using getState(). Now I have a place for logic with access to all slices of state!
+
+
+### Day 49: October 15, Tuesday
+D49 #100DaysOfCode #freeCodeCamp
+Added an alarm sound to my pomodoro timer and got the rest of the tests to pass! Now it's time to come up with a better design 😅
+
+![Pomodor timer with 29/29 tests passing](https://pbs.twimg.com/media/EG_Bp8vXYAAIjX0?format=jpg&name=small)

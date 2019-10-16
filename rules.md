@@ -1,7 +1,8 @@
 # Rules of the 100 Days Of Code Challenge
 
 ## Main Commitment
-### *I will code for at least 45 minutes, 6 days a week, for 100 days.*
+### *I will code for an hour a day, for 100 days.*
+While there may be days when I can't code for an hour, especially on the weekends due to family commitments, I will do my best to code at least an hour a day, six days a week.
 
 #### Start Date
 August 8th, 2019
