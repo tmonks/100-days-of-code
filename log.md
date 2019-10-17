@@ -266,9 +266,20 @@ Snuck in a little coding time while grilling the chicken yesterday 😁 and lear
 
 I feel like redux-thunk is the piece of #redux I've been missing. It allows you to create smart action-creators with access to dispatch() and global state using getState(). Now I have a place for logic with access to all slices of state!
 
+### Day 48: October 13, Monday
+D48 #100DaysOfCode #freeCodeCamp
+Centralized the remaining logic on my pomodoro timer into action creators using redux-thunk. I really wasn't sure why some of the tests were failing at first, but got them passing by adding some error-proofing. 3 more tests and design left to do.
+
+![Pomodoro timer with 26/29 tests passing](https://pbs.twimg.com/media/EG6EXhbX4AAqUGQ?format=png&name=small)
 
 ### Day 49: October 15, Tuesday
 D49 #100DaysOfCode #freeCodeCamp
 Added an alarm sound to my pomodoro timer and got the rest of the tests to pass! Now it's time to come up with a better design 😅
 
 ![Pomodor timer with 29/29 tests passing](https://pbs.twimg.com/media/EG_Bp8vXYAAIjX0?format=jpg&name=small)
+
+### Day 50: October 16, Wednesday
+D50 #100DaysOfCode #freeCodeCamp
+Half way there! 🥳 I worked on the design of my pomodoro timer. It still needs work, but I'm happy with how it's coming along. It really helped to look at some other timer apps for inspiration, and then do some sketches on paper before I started.
+
+![Pomodoro timer - new monochrome design](https://pbs.twimg.com/media/EHEWGBiXkAAk7A9?format=jpg&name=small)
