@@ -283,3 +283,11 @@ D50 #100DaysOfCode #freeCodeCamp
 Half way there! 🥳 I worked on the design of my pomodoro timer. It still needs work, but I'm happy with how it's coming along. It really helped to look at some other timer apps for inspiration, and then do some sketches on paper before I started.
 
 ![Pomodoro timer - new monochrome design](https://pbs.twimg.com/media/EHEWGBiXkAAk7A9?format=jpg&name=small)
+
+### Day 51: October 17, Thursday
+D51 #100DaysOfCode #freeCodeCamp 
+Added Font Awesome icons to my pomodoro timer and worked improving on the layout a little more. Broke half of the FCC tests, and then got them working again 😅
+
+https://tmonks.github.io/pomodoro-timer/
+
+![Pomodoro timer with Font Awesome icons](https://pbs.twimg.com/media/EHJbQxPXkAAa9SP?format=jpg&name=small)
