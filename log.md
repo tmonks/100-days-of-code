@@ -291,3 +291,9 @@ Added Font Awesome icons to my pomodoro timer and worked improving on the layout
 https://tmonks.github.io/pomodoro-timer/
 
 ![Pomodoro timer with Font Awesome icons](https://pbs.twimg.com/media/EHJbQxPXkAAa9SP?format=jpg&name=small)
+
+### Day 52: October 18, Friday
+D52 #100DaysOfCode #freeCodeCamp
+I followed a great article on creating an animated SVG radial progress meter (https://codepen.io/xgad/post/svg-radial-progress-meters) and got it working on my Pomodoro timer. I still have some work to do on the positioning, but it was super fun and I like how it looks.
+
+[Animation of Pomodoro timer with radial progress meter](https://twitter.com/i/status/1185481350100463616)
