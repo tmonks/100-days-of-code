@@ -301,3 +301,9 @@ I followed a great article on creating an animated SVG radial progress meter (ht
 ### Day 53: October 19, Saturday
 D53 #100DaysOfCode
 Went to an @MLHHacks Local Hack Day yesterday and learned how to start creating video games in #unity and C#. It was great meeting some new people and getting together to learn about code. Big thanks to @dana7160, @\_JasconScharf & @JKim\_Tran for making it happen
+
+### Day 54: October 21, Monday
+D54 #100DaysOfCode #freeCodeCamp
+Worked on polishing and improving the responsiveness of my pomodoro timer. Added an 'active' prop for the Preset to visually indicate which preset is active, and disable the buttons while the timer is running. Getting close to wrapping this one up
+
+[Animation of Pomodoro timer responsiveness](https://twitter.com/i/status/1186559541909118976)
