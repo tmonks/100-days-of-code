@@ -307,3 +307,9 @@ D54 #100DaysOfCode #freeCodeCamp
 Worked on polishing and improving the responsiveness of my pomodoro timer. Added an 'active' prop for the Preset to visually indicate which preset is active, and disable the buttons while the timer is running. Getting close to wrapping this one up
 
 [Animation of Pomodoro timer responsiveness](https://twitter.com/i/status/1186559541909118976)
+
+### Day 55: October 22, Tuesday
+D55 #100DaysOfCode #freeCodeCamp
+Made a few last minor updates to my pomodoro timer. Switched to a new alarm sound, adjusted margin & positioning, and added a new Google font (a decision which took way longer than I'd like to admit 😅)
+
+![Pomodoro app screenshot](https://pbs.twimg.com/media/EHjP9gVWoAE7h64?format=png&name=small)
