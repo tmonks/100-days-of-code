@@ -313,3 +313,9 @@ D55 #100DaysOfCode #freeCodeCamp
 Made a few last minor updates to my pomodoro timer. Switched to a new alarm sound, adjusted margin & positioning, and added a new Google font (a decision which took way longer than I'd like to admit 😅)
 
 ![Pomodoro app screenshot](https://pbs.twimg.com/media/EHjP9gVWoAE7h64?format=png&name=small)
+
+### Day 56: October 23, Wednesday
+D56 #100DaysOfCode #freeCodeCamp 
+Hit a snag while reorganizing my code due to global variables I was using for the interval ID and audio DOM ref. After a lot of obsessing, I found a workaround, but not sure it's the best way. Should I put things like these into the Redux store?
+
+**Thoughts:** Feel like I need a course in React/JavaScript best practices around file organization and importing. 
