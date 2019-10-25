@@ -319,3 +319,7 @@ D56 #100DaysOfCode #freeCodeCamp
 Hit a snag while reorganizing my code due to global variables I was using for the interval ID and audio DOM ref. After a lot of obsessing, I found a workaround, but not sure it's the best way. Should I put things like these into the Redux store?
 
 **Thoughts:** Feel like I need a course in React/JavaScript best practices around file organization and importing. 
+
+### Day 57: October 24, Thursday
+D57 #100DaysOfCode #freeCodeCamp
+Decided to move the DOM ref and interval ID into the Redux store. I got a weird error at first with one of the new action creators, but figured it out while I was on the treadmill (love when that happens 🤓) and it went smoothly after that.
