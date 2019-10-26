@@ -323,3 +323,7 @@ Hit a snag while reorganizing my code due to global variables I was using for th
 ### Day 57: October 24, Thursday
 D57 #100DaysOfCode #freeCodeCamp
 Decided to move the DOM ref and interval ID into the Redux store. I got a weird error at first with one of the new action creators, but figured it out while I was on the treadmill (love when that happens 🤓) and it went smoothly after that.
+
+### Day 58: October 25, Friday
+D58 #100DaysofCode #freeCodeCamp
+Refactored the code in my pomodoro timer for a better separation of concerns between the different components. I was hesitant to make changes this big when I'm almost done, but I mapped it out on paper first and it went surprisingly well 😌
