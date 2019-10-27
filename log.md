@@ -327,3 +327,7 @@ Decided to move the DOM ref and interval ID into the Redux store. I got a weird 
 ### Day 58: October 25, Friday
 D58 #100DaysofCode #freeCodeCamp
 Refactored the code in my pomodoro timer for a better separation of concerns between the different components. I was hesitant to make changes this big when I'm almost done, but I mapped it out on paper first and it went surprisingly well 😌
+
+### Day 59: October 26, Saturday
+D59 #100DaysOfCode #freeCodeCamp
+Worked more on improving the distribution of logic between the components of my pomodoro timer. Learned about writing middleware. I'm a little concerned that I'm spending so much time on this one project, but I'm learning a lot and having fun! 😊
