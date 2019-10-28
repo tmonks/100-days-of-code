@@ -331,3 +331,8 @@ Refactored the code in my pomodoro timer for a better separation of concerns bet
 ### Day 59: October 26, Saturday
 D59 #100DaysOfCode #freeCodeCamp
 Worked more on improving the distribution of logic between the components of my pomodoro timer. Learned about writing middleware. I'm a little concerned that I'm spending so much time on this one project, but I'm learning a lot and having fun! 😊
+
+### Day 60: October 27, Sunday
+D60 #100DaysOfCode #freeCodeCamp
+Refactored my pomodoro timer yesterday with custom middleware to handle the audio playback. It worked great and simplified the action creators. There's nothing like starting my day with coffee, good music, and a productive coding session ☕️ 😁
+
