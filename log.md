@@ -336,3 +336,6 @@ Worked more on improving the distribution of logic between the components of my 
 D60 #100DaysOfCode #freeCodeCamp
 Refactored my pomodoro timer yesterday with custom middleware to handle the audio playback. It worked great and simplified the action creators. There's nothing like starting my day with coffee, good music, and a productive coding session ☕️ 😁
 
+### Day 61: October 28, Monday
+D61 #100DaysOfCode #freeCodeCamp
+Implemented my own #redux middleware to handle the timer side effects and complex logic of my pomodoro timer. I'm much happier with this approach and the redux-thunk action creators I was initially using. It seems much cleaner and easier to follow
