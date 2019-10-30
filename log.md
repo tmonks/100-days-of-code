@@ -339,3 +339,7 @@ Refactored my pomodoro timer yesterday with custom middleware to handle the audi
 ### Day 61: October 28, Monday
 D61 #100DaysOfCode #freeCodeCamp
 Implemented my own #redux middleware to handle the timer side effects and complex logic of my pomodoro timer. I'm much happier with this approach and the redux-thunk action creators I was initially using. It seems much cleaner and easier to follow
+
+### Day 62: October 29, Tuesday
+D62 #100DaysOfCode #freeCodeCamp
+Finished simplifying my action creators, moving logic to my #redux middleware, and fixing several new bugs 😅 Almost ready to wrap the pomodoro timer up for now (for real this time 😊). I'm looking forward to starting something new!
