@@ -343,3 +343,19 @@ Implemented my own #redux middleware to handle the timer side effects and comple
 ### Day 62: October 29, Tuesday
 D62 #100DaysOfCode #freeCodeCamp
 Finished simplifying my action creators, moving logic to my #redux middleware, and fixing several new bugs 😅 Almost ready to wrap the pomodoro timer up for now (for real this time 😊). I'm looking forward to starting something new!
+
+### Day 63: October 30, Wednesday
+D63 #100DaysOfCode #freeCodeCamp
+Finished up and submitted my pomodoro timer 🥳 It took longer than I planned since I refactored and tried several different approaches to managing the side effects, but I learned a ton about React & Redux in the process! https://tmonks.github.io/pomodoro-timer/
+
+The pomodoro timer was my last of the 5 projects, and I collected the Front End Libraries certification yesterday! 🥳  Thanks to @freeCodeCamp for providing such an excellent learning platform and community! I've come such a long way since I started.
+
+![Front-End Libraries Certification](https://pbs.twimg.com/media/EIMhH95XkAAUDMt?format=png&name=small)
+![JavaScript Algorithm and Data Structures Certification](https://pbs.twimg.com/media/EIMhH-CWsAAEDiq?format=png)
+![Responsive Web Design Certification](https://pbs.twimg.com/media/EIMhH-DX0AUlD4D?format=png)
+
+### Day 64: October 31, Thursday
+D64 #100DaysOfCode
+My personal website really needs some love. Got ssh access set up and researched how to use git to manage the files & push updates to my web host. It used to be such a complex process to make changes; maybe I'll actually keep it updated if I can just use git 😊
+
+Also fixed the animation on my Pomodoro timer so that it ends exactly on 0:00. The calculation was off because the stroke length needed to be calculated on the inside of the stroke-width, not the outside.
