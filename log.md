@@ -359,3 +359,17 @@ D64 #100DaysOfCode
 My personal website really needs some love. Got ssh access set up and researched how to use git to manage the files & push updates to my web host. It used to be such a complex process to make changes; maybe I'll actually keep it updated if I can just use git 😊
 
 Also fixed the animation on my Pomodoro timer so that it ends exactly on 0:00. The calculation was off because the stroke length needed to be calculated on the inside of the stroke-width, not the outside.
+
+### Day 65: November 1, Friday
+D65 #100DaysOfCode
+Finished setting up git with a hook on my web server so now I can use git to manage the code for my personal website, and then just push it to my web host and it will publish the changes automatically 😁 Made a few updates to the layout, font, & portfolio items
+
+Here's a nice guide on setting up git with a hook to automatically publish changes to your web server. It worked great for me, just be sure to put the #!/bin/sh on its own line in the post-receive file. #100DaysOfCode
+
+https://www.inmotionhosting.com/support/website/git/using-git-to-publish-files-2
+
+### Day 66: November 2, Saturday
+D66 #100DaysOfCode
+Did a couple katas on Codewars today. Ranked up to 6kyu... which was exciting until I found out I just went from "beginner" to "novice"
+
+
