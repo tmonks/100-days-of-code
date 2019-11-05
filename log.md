@@ -372,7 +372,7 @@ https://www.inmotionhosting.com/support/website/git/using-git-to-publish-files-2
 D66 #100DaysOfCode
 Did a couple katas on Codewars today. Ranked up to 6kyu... which was exciting until I found out I just went from "beginner" to "novice"
 
-###  Day 67: November 3, Sunday
+### Day 67: November 3, Sunday
 D67 #100DaysOfCode
 Worked on a fun Codewars kata about simulating a car moving down a road with traffic lights
 https://www.codewars.com/kata/traffic-lights-one-car
@@ -380,3 +380,7 @@ https://www.codewars.com/kata/traffic-lights-one-car
 I thought of making simple animation from it in Flexbox so I could get my kids interested in it. It worked, but I definitely enjoyed it more😁
 
 [Animation of car and traffic lights](https://twitter.com/i/status/1191353990971363328)
+
+## Day 68: November 4, Monday
+D68 #100DaysOfCode
+Updated all 5 of my #freeCodeCamp front end libraries projects to disable the FCC test suite and then added them to my personal website. I think I'm just going to get my website up to date for now, and plan to build a more sophisticated one down the road.
