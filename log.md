@@ -384,3 +384,9 @@ I thought of making simple animation from it in Flexbox so I could get my kids i
 ## Day 68: November 4, Monday
 D68 #100DaysOfCode
 Updated all 5 of my #freeCodeCamp front end libraries projects to disable the FCC test suite and then added them to my personal website. I think I'm just going to get my website up to date for now, and plan to build a more sophisticated one down the road.
+
+## Day 69: November 5, Tuesday
+D69 #100DaysOfCode
+Picked out a new header image for my personal website and adjusted the layout. I spent way too much time on it and I'm still not 100% happy with it, but I'm at least headed in the right direction 😅 
+Completed a 5kyu kata on Codewars with recursion.
+
