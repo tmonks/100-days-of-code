@@ -390,3 +390,8 @@ D69 #100DaysOfCode
 Picked out a new header image for my personal website and adjusted the layout. I spent way too much time on it and I'm still not 100% happy with it, but I'm at least headed in the right direction 😅 
 Completed a 5kyu kata on Codewars with recursion.
 
+## Day 70: November 6, Wednesday
+D70 #100DaysOfCode
+Updated the copy on my personal website. It still needs some work but I'm much happier with it. Worked some more on the heading section and improving the design of the cards. I'm thinking this is going to be an ongoing process 😅 
+http://tommonks.net
+ 
