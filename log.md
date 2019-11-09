@@ -395,3 +395,6 @@ D70 #100DaysOfCode
 Updated the copy on my personal website. It still needs some work but I'm much happier with it. Worked some more on the heading section and improving the design of the cards. I'm thinking this is going to be an ongoing process 😅 
 http://tommonks.net
  
+## Day 71: November 7, Friday
+D71 #100DaysOfCode
+After much Googling and trial & error, I finally figured out how to get consistent heights on the Bootstrap cards on my personal website 😅 Adjusted the section padding to work better on mobile. Hoping to move on soon; I miss building new projects!
