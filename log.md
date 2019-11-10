@@ -398,3 +398,7 @@ http://tommonks.net
 ## Day 71: November 7, Friday
 D71 #100DaysOfCode
 After much Googling and trial & error, I finally figured out how to get consistent heights on the Bootstrap cards on my personal website 😅 Adjusted the section padding to work better on mobile. Hoping to move on soon; I miss building new projects!
+
+## Day 72: November 8, Saturday
+D72 #100DaysOfCode
+Took my laptop to do some coding while my family was looking around in Barnes & Noble ☕️ Completed my first 4kyu kata on Codewars and ranked up to 5kyu 😁 Man these challenges are addicting. Once I start one, I can't stop thinking about it until it's solved!
