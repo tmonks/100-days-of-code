@@ -402,3 +402,7 @@ After much Googling and trial & error, I finally figured out how to get consiste
 ## Day 72: November 8, Saturday
 D72 #100DaysOfCode
 Took my laptop to do some coding while my family was looking around in Barnes & Noble ☕️ Completed my first 4kyu kata on Codewars and ranked up to 5kyu 😁 Man these challenges are addicting. Once I start one, I can't stop thinking about it until it's solved!
+
+## Day 73: November 10, Monday
+D73 #100DaysOfCode
+Worked some more on the heading and portfolio sections of my website. Learned about transform & scale which let me create a nice hover effect without causing the layout to shift. Made the CTA button link to my email using JavaScript so it's not in plain text.
