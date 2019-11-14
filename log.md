@@ -406,3 +406,11 @@ Took my laptop to do some coding while my family was looking around in Barnes & 
 ## Day 73: November 10, Monday
 D73 #100DaysOfCode
 Worked some more on the heading and portfolio sections of my website. Learned about transform & scale which let me create a nice hover effect without causing the layout to shift. Made the CTA button link to my email using JavaScript so it's not in plain text.
+
+## Day 74: November 11, Tuesday
+D74 #100DaysOfCode
+Added a services section to my website. Hoping it will help me get some freelancing gigs. Worked a "dots and boxes" game validator on Codewars which has been on my mind for a while. I have a nagging feeling there's a more graceful way, but at least it works 😅
+
+## Day 75: November 12, Wednesday
+D75 #100DaysOfCode
+Reviewed some best practice solutions to katas I've completed recently on Codewars. I love that I can learn from others' solutions, but is it really "best practice" to use a string of 5 map and reduce functions that takes me an hour to wrap my head around? 🥴
