@@ -395,22 +395,27 @@ D70 #100DaysOfCode
 Updated the copy on my personal website. It still needs some work but I'm much happier with it. Worked some more on the heading section and improving the design of the cards. I'm thinking this is going to be an ongoing process 😅 
 http://tommonks.net
  
-## Day 71: November 7, Friday
+## Day 71: November 8, Friday
 D71 #100DaysOfCode
 After much Googling and trial & error, I finally figured out how to get consistent heights on the Bootstrap cards on my personal website 😅 Adjusted the section padding to work better on mobile. Hoping to move on soon; I miss building new projects!
 
-## Day 72: November 8, Saturday
+## Day 72: November 9, Saturday
 D72 #100DaysOfCode
 Took my laptop to do some coding while my family was looking around in Barnes & Noble ☕️ Completed my first 4kyu kata on Codewars and ranked up to 5kyu 😁 Man these challenges are addicting. Once I start one, I can't stop thinking about it until it's solved!
 
-## Day 73: November 10, Monday
+## Day 73: November 11, Monday
 D73 #100DaysOfCode
 Worked some more on the heading and portfolio sections of my website. Learned about transform & scale which let me create a nice hover effect without causing the layout to shift. Made the CTA button link to my email using JavaScript so it's not in plain text.
 
-## Day 74: November 11, Tuesday
+## Day 74: November 12, Tuesday
 D74 #100DaysOfCode
 Added a services section to my website. Hoping it will help me get some freelancing gigs. Worked a "dots and boxes" game validator on Codewars which has been on my mind for a while. I have a nagging feeling there's a more graceful way, but at least it works 😅
 
-## Day 75: November 12, Wednesday
+## Day 75: November 13, Wednesday
 D75 #100DaysOfCode
 Reviewed some best practice solutions to katas I've completed recently on Codewars. I love that I can learn from others' solutions, but is it really "best practice" to use a string of 5 map and reduce functions that takes me an hour to wrap my head around? 🥴
+
+## Day 76: November 14, Thursday
+D76 #100DaysOfCode
+Finished up a few more minor tweaks and layout adjustments to my website. There's a lot more I'd like to do with it, but I think I'm going to call it good enough for now. Appreciate any feedback or suggestions on how I could improve it. 
+http://tommonks.net
