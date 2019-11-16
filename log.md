@@ -419,3 +419,9 @@ Reviewed some best practice solutions to katas I've completed recently on Codewa
 D76 #100DaysOfCode
 Finished up a few more minor tweaks and layout adjustments to my website. There's a lot more I'd like to do with it, but I think I'm going to call it good enough for now. Appreciate any feedback or suggestions on how I could improve it. 
 http://tommonks.net
+
+## Day 77: November 15, Friday
+D77 #100DaysOfCode
+I started the #freeCodeCamp APIs & Microservices certification yesterday. I'm really excited to start learning the backend and take the apps I can create to the next level! Completed the first 12 exercises.
+
+![First 12 API exercises completed](https://pbs.twimg.com/media/EJe-spfW4AAK9jS?format=png&name=small)
