@@ -425,3 +425,9 @@ D77 #100DaysOfCode
 I started the #freeCodeCamp APIs & Microservices certification yesterday. I'm really excited to start learning the backend and take the apps I can create to the next level! Completed the first 12 exercises.
 
 ![First 12 API exercises completed](https://pbs.twimg.com/media/EJe-spfW4AAK9jS?format=png&name=small)
+
+## Day 78: November 16, Saturday
+D78 #100DaysOfCode
+Did something a little different for fun yesterday. I started this great tutorial and built Pong in #python. I've been wanting to learn Python, I love creating games, and it got my kids interested which is always a bonus 😁 So much fun! https://www.youtube.com/watch?v=XGf2GcyHPhc&t=994s
+
+![Pong game written in Python](https://pbs.twimg.com/media/EJkbQd6W4AI1VCd?format=png&name=small)
