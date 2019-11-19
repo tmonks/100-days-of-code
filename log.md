@@ -437,3 +437,7 @@ D79 #100DaysOfCode
 Did another 10 challenges and finished the Basic Node and Express section on #freeCodeCamp. I'm really enjoying the backend so far, and I liked learning about how to get user input through route & query parameters and POST requests.
 
 ![Basic Node and Express challenges completed](https://pbs.twimg.com/media/EJuclYSXYAAuIOi?format=png&name=small)
+
+## Day 80: November 19, Tuesday
+D80 #100DaysOfCode
+Decided to start the API #freeCodeCamp projects, since I had a good idea of how to tackle the first one with the exercises I've done already, and I actually got the first two done! I'm totally enjoying not having to obsess over fonts, colors, and padding with the backend stuff!
