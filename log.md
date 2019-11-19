@@ -431,3 +431,9 @@ D78 #100DaysOfCode
 Did something a little different for fun yesterday. I started this great tutorial and built Pong in #python. I've been wanting to learn Python, I love creating games, and it got my kids interested which is always a bonus 😁 So much fun! https://www.youtube.com/watch?v=XGf2GcyHPhc&t=994s
 
 ![Pong game written in Python](https://pbs.twimg.com/media/EJkbQd6W4AI1VCd?format=png&name=small)
+
+## Day 79: November 18, Monday
+D79 #100DaysOfCode
+Did another 10 challenges and finished the Basic Node and Express section on #freeCodeCamp. I'm really enjoying the backend so far, and I liked learning about how to get user input through route & query parameters and POST requests.
+
+![Basic Node and Express challenges completed](https://pbs.twimg.com/media/EJuclYSXYAAuIOi?format=png&name=small)
