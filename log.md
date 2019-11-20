@@ -439,5 +439,7 @@ Did another 10 challenges and finished the Basic Node and Express section on #fr
 ![Basic Node and Express challenges completed](https://pbs.twimg.com/media/EJuclYSXYAAuIOi?format=png&name=small)
 
 ## Day 80: November 19, Tuesday
-D80 #100DaysOfCode
-Decided to start the API #freeCodeCamp projects, since I had a good idea of how to tackle the first one with the exercises I've done already, and I actually got the first two done! I'm totally enjoying not having to obsess over fonts, colors, and padding with the backend stuff!
+D80 #100DaysOfCode #freeCodeCamp
+Had a good idea of how to do the Timestamp API project so I started that and I actually got the first two projects done! I have to say, I'm totally enjoying not having to obsess over fonts, colors, and margins with the backend stuff!😄
+
+![First two API projects done](https://pbs.twimg.com/media/EJzsjbGWkAYT58B?format=jpg&name=small)
