@@ -443,3 +443,9 @@ D80 #100DaysOfCode #freeCodeCamp
 Had a good idea of how to do the Timestamp API project so I started that and I actually got the first two projects done! I have to say, I'm totally enjoying not having to obsess over fonts, colors, and margins with the backend stuff!😄
 
 ![First two API projects done](https://pbs.twimg.com/media/EJzsjbGWkAYT58B?format=jpg&name=small)
+
+## Day 81: November 20, Wednesday
+D81 #100DaysOfCode #freeCodeCamp 
+Had a bit of a rough time getting started on the MongoDB exercises. Took me a while to figure out the callback pattern and where to call done(). I'm also finding out how different it is from MySQL which I'm used to! Got the first 5 exercises done
+
+![First 5 MongoDB exercises done](https://pbs.twimg.com/media/EJ42-Q2XsAADucw?format=png&name=small)
