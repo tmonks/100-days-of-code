@@ -449,3 +449,9 @@ D81 #100DaysOfCode #freeCodeCamp
 Had a bit of a rough time getting started on the MongoDB exercises. Took me a while to figure out the callback pattern and where to call done(). I'm also finding out how different it is from MySQL which I'm used to! Got the first 5 exercises done
 
 ![First 5 MongoDB exercises done](https://pbs.twimg.com/media/EJ42-Q2XsAADucw?format=png&name=small)
+
+## Day 82: November 21, Thursday
+D82 #100DaysOfCode #freeCodeCamp
+Completed the rest of the MongodB exercises yesterday. Not feeling super strong on Express and MongoDB yet, so I'm thinking about doing those sections in the Web Developer Bootcamp by Colt Steele on Udemy before I move on to the other 3 projects.
+
+![All API exercises complete](https://pbs.twimg.com/media/EJ-3JNeWkAAzecX?format=jpg&name=small)
