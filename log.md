@@ -455,3 +455,9 @@ D82 #100DaysOfCode #freeCodeCamp
 Completed the rest of the MongodB exercises yesterday. Not feeling super strong on Express and MongoDB yet, so I'm thinking about doing those sections in the Web Developer Bootcamp by Colt Steele on Udemy before I move on to the other 3 projects.
 
 ![All API exercises complete](https://pbs.twimg.com/media/EJ-3JNeWkAAzecX?format=jpg&name=small)
+
+## Day 83: November 22, Friday
+D83 #100DaysOfCode 
+Started going through the Node and Express exercises in the Web Developer Bootcamp Udemy course, and I'm really glad I did. I love #freeCodeCamp, but I feel like the material in this section was really sparse, and I'm learning a lot more from this video course
+
+Also got my files reorganized, and learned how to start a Node and Express project from scratch and run it locally. Starting to feel like I'm getting the hang of it now. Can't wait to keep going.
