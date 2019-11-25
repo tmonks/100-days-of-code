@@ -461,3 +461,11 @@ D83 #100DaysOfCode
 Started going through the Node and Express exercises in the Web Developer Bootcamp Udemy course, and I'm really glad I did. I love #freeCodeCamp, but I feel like the material in this section was really sparse, and I'm learning a lot more from this video course
 
 Also got my files reorganized, and learned how to start a Node and Express project from scratch and run it locally. Starting to feel like I'm getting the hang of it now. Can't wait to keep going.
+
+## Day 84: November 23, Saturday
+D84 #100DaysOfCode
+Spent much of the day obsessing over another Codewars kata. I solved it using recursion, but it was too slow and timed out on some tests😌 Thankfully, I came up with a better approach and got it mostly working, or I wouldn't have been able to sleep!
+
+## Day 85: November 24, Sunday
+D85 #100DaysOfCode 
+Completed the 4kyu #codewar kata I started this weekend. Started working on a Scratch game for an Hour of Code I'm planning to do with my daughter's 4th grade class. Trying to come up with something simple enough to do in an hour, yet exciting for 9 year olds.
