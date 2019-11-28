@@ -469,3 +469,11 @@ Spent much of the day obsessing over another Codewars kata. I solved it using re
 ## Day 85: November 24, Sunday
 D85 #100DaysOfCode 
 Completed the 4kyu #codewar kata I started this weekend. Started working on a Scratch game for an Hour of Code I'm planning to do with my daughter's 4th grade class. Trying to come up with something simple enough to do in an hour, yet exciting for 9 year olds.
+
+## Day 86: November 25, Monday
+D86 #100DaysOfCode
+Worked on the Web Developer Bootcamp course. Learned about EJS and using templates and partials. Reminds me a lot of php. 
+
+## Day 87: November 26, Tuesday
+D87 #100DaysOfCode
+Decided to start the URL Shortener #freeCodeCamp project and got routes and URL/DNS validation set up. Worked on a Codewars kata. Picked out 2 new Udemy courses on Node and algorithms and enjoyed learning about Big O notation during my drive🤓
