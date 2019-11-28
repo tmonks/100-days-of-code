@@ -477,3 +477,7 @@ Worked on the Web Developer Bootcamp course. Learned about EJS and using templat
 ## Day 87: November 26, Tuesday
 D87 #100DaysOfCode
 Decided to start the URL Shortener #freeCodeCamp project and got routes and URL/DNS validation set up. Worked on a Codewars kata. Picked out 2 new Udemy courses on Node and algorithms and enjoyed learning about Big O notation during my drive🤓
+
+## Day 88: November 27, Wednesday
+D88 #100DaysOfCode #freeCodeCamp
+Got a new MongoDB database set up and connected to my URL Shortener project. Quickly realized that I needed to brush up on asynchronous JS. After some obsessive Googling and Youtube-watching, I got find() and save() working with Promises😀
