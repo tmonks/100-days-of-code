@@ -481,3 +481,7 @@ Decided to start the URL Shortener #freeCodeCamp project and got routes and URL/
 ## Day 88: November 27, Wednesday
 D88 #100DaysOfCode #freeCodeCamp
 Got a new MongoDB database set up and connected to my URL Shortener project. Quickly realized that I needed to brush up on asynchronous JS. After some obsessive Googling and Youtube-watching, I got find() and save() working with Promises😀
+
+## Day 89: November 28, Thursday
+D89 #100DaysOfCode 
+Worked on a Codewars kata yesterday to evaluate arithmetic equations (my first 3kyu). I solved it using a kind of lame two-pass approach. But then, as I lay in bed trying to go to sleep, a much better solution came to me. They are so addicting😬
