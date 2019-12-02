@@ -489,3 +489,11 @@ Worked on a Codewars kata yesterday to evaluate arithmetic equations (my first 3
 ## Day 90: November 29, Friday
 D90 #100DaysOfCode #freeCodeCamp
 Completed the URL Shortener project. Only 2 more to go on this certification! Also completed the 3kyu calculator kata on Codewars that I started the other day. It's such a good feeling to see those tests pass😁
+
+## Day 91: November 30, Saturday
+D91 #100DaysOfCode
+Worked on my Scratch project for Hour of Code. It's a super-simple Pong-style game, but my kids will sit and play it, seemingly indefinitely, just to get a higher score. So that's a good sign😁. 
+
+## Day 92, December 1, Sunday
+D92 #100DaysOfCode
+Completed a really fun maze "path finder" kata on Codewars. Worked on my Hour of Code project some more - changed it to a farm theme and added some fun sound effects. Also added sound and finished my Pong game in Python.
