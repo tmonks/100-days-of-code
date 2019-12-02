@@ -497,3 +497,7 @@ Worked on my Scratch project for Hour of Code. It's a super-simple Pong-style ga
 ## Day 92, December 1, Sunday
 D92 #100DaysOfCode
 Completed a really fun maze "path finder" kata on Codewars. Worked on my Hour of Code project some more - changed it to a farm theme and added some fun sound effects. Also added sound and finished my Pong game in Python.
+
+## Day 93, December 2, Monday
+D93 #100DaysOfCode #freeCodeCamp
+Started the Exercise Tracker API project. Got set up in Glitch, created and connected to database, set up Schema. I learned more about schemas in Mongoose and how to set up unique indexes, default values, and required values, and arrays of objects.
