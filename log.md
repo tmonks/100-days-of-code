@@ -500,4 +500,4 @@ Completed a really fun maze "path finder" kata on Codewars. Worked on my Hour of
 
 ## Day 93, December 2, Monday
 D93 #100DaysOfCode #freeCodeCamp
-Started the Exercise Tracker API project. Got set up in Glitch, created and connected to database, set up Schema. I learned more about schemas in Mongoose and how to set up unique indexes, default values, and required values, and arrays of objects.
+Started the Exercise Tracker API project. Got it set up in Glitch and created and connected the database. Learned more about schemas in Mongoose and how to set up unique indexes, default values, required values, and arrays of objects.
