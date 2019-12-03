@@ -501,3 +501,7 @@ Completed a really fun maze "path finder" kata on Codewars. Worked on my Hour of
 ## Day 93, December 2, Monday
 D93 #100DaysOfCode #freeCodeCamp
 Started the Exercise Tracker API project. Got it set up in Glitch and created and connected the database. Learned more about schemas in Mongoose and how to set up unique indexes, default values, required values, and arrays of objects.
+
+## Day 94, December 3, Tuesday
+D94 #100DaysOfCode #freeCodeCamp
+Got the "get users" and "add exercise" endpoints working. Learned how to use the async/await syntax for handling Promises (looks way better!) I'm really enjoying how "black and white" the backend is. Unlike front-end projects, I know when it's good enough!
