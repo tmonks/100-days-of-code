@@ -504,4 +504,4 @@ Started the Exercise Tracker API project. Got it set up in Glitch and created an
 
 ## Day 94, December 3, Tuesday
 D94 #100DaysOfCode #freeCodeCamp
-Got the "get users" and "add exercise" endpoints working. Learned how to use the async/await syntax for handling Promises (looks way better!) I'm really enjoying how "black and white" the backend is. Unlike front-end projects, I know when it's good enough!
+Got the "get users" and "add exercise" endpoints working on the exercise tracker. Learned how to use the async/await syntax for handling Promises. Really enjoying the backend. It feels so good each time I learn a new technique and get it to work!
