@@ -507,5 +507,11 @@ D94 #100DaysOfCode #freeCodeCamp
 Got the "get users" and "add exercise" endpoints working on the exercise tracker. Learned how to use the async/await syntax for handling Promises. Really enjoying the backend. It feels so good each time I learn a new technique and get it to work!
 
 ## Day 95, December 4, Wednesday
-D94 #100DaysOfCode #freeCodeCamp
-Implemented the exercise log endpoint on the Exercise Tracker project. Learned about MongoDB aggregation and query language (feel like I'm just scratching the surface on that). Just about finished with this project though! Just need to clean up a couple things and take some notes on everything I learned.
+D95 #100DaysOfCode #freeCodeCamp
+Implemented the log retrieval endpoint on the Exercise Tracker. Obsessively researched MongoDB aggregation in order to filter and limit the exercise subdocuments. That was a bit rough but I got through it😅 Almost ready to wrap this one up!
+
+## Day 96, December 5, Thursday
+D96 #100DaysOfCode #freeCodeCamp
+Finished up the Exercise Tracker, and completed the File Metadata project today too! Almost ready to claim the APIs & Microservices certification, but I want to do some more testing on my projects first. The FCC tests don't seem to be working.
+
+![All 5 projects complete](https://pbs.twimg.com/media/ELD7iPRXYAI_LXY?format=png&name=small)
