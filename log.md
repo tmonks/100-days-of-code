@@ -515,3 +515,12 @@ D96 #100DaysOfCode #freeCodeCamp
 Finished up the Exercise Tracker, and completed the File Metadata project today too! Almost ready to claim the APIs & Microservices certification, but I want to do some more testing on my projects first. The FCC tests don't seem to be working.
 
 ![All 5 projects complete](https://pbs.twimg.com/media/ELD7iPRXYAI_LXY?format=png&name=small)
+
+## Day 97, December 6, Friday
+D97 #100DaysOfCode
+Today was a great end to a great week of coding. I finished testing my projects and claimed my API's & Microservices certification 🥳. That's four down, and 2 to go 😁. Feeling very thankful for @freeCodeCamp and all I've learned so far!
+
+![APIs & Microservices Certification](https://pbs.twimg.com/media/ELJaP7EXUAA7lqF?format=png&name=360x360)
+![Front-End Libraries Certification](https://pbs.twimg.com/media/ELJaP7LWkAE55S0?format=png&name=360x360)
+![JavaScript Data Structures & Algorithms Certification](https://pbs.twimg.com/media/ELJaP7RXUAAXWH_?format=png&name=360x360)
+![Responsive Web Design Certification](https://pbs.twimg.com/media/ELJaP7IW4AAiCMm?format=png&name=360x360)
