@@ -524,3 +524,7 @@ Today was a great end to a great week of coding. I finished testing my projects 
 ![Front-End Libraries Certification](https://pbs.twimg.com/media/ELJaP7LWkAE55S0?format=png&name=360x360)
 ![JavaScript Data Structures & Algorithms Certification](https://pbs.twimg.com/media/ELJaP7RXUAAXWH_?format=png&name=360x360)
 ![Responsive Web Design Certification](https://pbs.twimg.com/media/ELJaP7IW4AAiCMm?format=png&name=360x360)
+
+## Day 98, December 9, Monday
+D98 #100DaysOfCode
+Worked on a shortest path algorithm on Codewars. Got it working correctly, but it was inefficient and timed out on the bigger tests. Watched some videos on Dijkstra's algorithm, and I think I know how to do it now. Hoping to get up to 4kyu before day 100!
