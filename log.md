@@ -528,3 +528,9 @@ Today was a great end to a great week of coding. I finished testing my projects 
 ## Day 98, December 9, Monday
 D98 #100DaysOfCode
 Worked on a shortest path algorithm on Codewars. Got it working correctly, but it was inefficient and timed out on the bigger tests. Watched some videos on Dijkstra's algorithm, and I think I know how to do it now. Hoping to get up to 4kyu before day 100!
+
+## Day 99, December 10, Tuesday
+D99 #100DaysOfCode #codewar
+Finished the shortest path kata on Codewars. The Dijkstra-based approach worked great and was SO much more efficient. Thanks to completing that one I ranked up to 4kyu!😁
+
+![Ranked up to 4kyu](https://pbs.twimg.com/media/ELd-yjNX0AEQIjr?format=png&name=small)
