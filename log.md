@@ -534,3 +534,8 @@ D99 #100DaysOfCode #codewar
 Finished the shortest path kata on Codewars. The Dijkstra-based approach worked great and was SO much more efficient. Thanks to completing that one I ranked up to 4kyu!😁
 
 ![Ranked up to 4kyu](https://pbs.twimg.com/media/ELd-yjNX0AEQIjr?format=png&name=small)
+
+## Day 100, December 11, 2019
+D100. In a serendipitous conclusion to my #100DaysOfCode, I led an #HourOfCode with my daughter's 4th grade class. We had a blast making a pong game in Scratch together. One of the kids even told me I gave him an idea of what he wants to do when he grows up. That made my day!
+
+![Riley and me after Hour of Code](https://pbs.twimg.com/media/ELjMedyWsAIxRd0?format=jpg&name=small)
