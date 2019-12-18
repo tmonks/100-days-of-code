@@ -9,3 +9,7 @@ Had a great first day of my 2nd round
 ● Hosted a 2nd #HourofCode with the other 4th grade class (so much fun!)
 ● Figured out the parsing portion of a 2kyu #codewar kata I've been working on
 ● Completed the InfoSec Helmet & BCrypt lessons on #freeCodeCamp
+
+### Day 2:
+R2/D2 #100DaysOfCode 
+Today I started learning about QA testing with mocha & chai (coincidentally while drinking some chai ☕️😁). Got through 20/24 of the #freeCodeCamp exercises in this section.
