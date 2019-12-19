@@ -13,3 +13,7 @@ Had a great first day of my 2nd round
 ### Day 2:
 R2/D2 #100DaysOfCode 
 Today I started learning about QA testing with mocha & chai (coincidentally while drinking some chai ☕️😁). Got through 20/24 of the #freeCodeCamp exercises in this section.
+
+### Day 3:
+R2/D3 #100DaysOfCode
+Finished the mocha & chai exercises on #freeCodeCamp. I'm tempted to continue plowing through the rest of the exercises, but I feel like I need to go back, read some more documentation, and take some notes. I'm not fully grasping the syntax and concepts yet.
