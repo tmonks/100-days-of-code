@@ -17,3 +17,7 @@ Today I started learning about QA testing with mocha & chai (coincidentally whil
 ### Day 3:
 R2/D3 #100DaysOfCode
 Finished the mocha & chai exercises on #freeCodeCamp. I'm tempted to continue plowing through the rest of the exercises, but I feel like I need to go back, read some more documentation, and take some notes. I'm not fully grasping the syntax and concepts yet.
+
+### Day 4: 
+R2/D4 #100DaysOfCode
+Finished reviewing and taking notes on mocha & chai. Started the #freeCodeCamp Metric-Imperial Converter project since I've covered enough to implement that one. Looks like it will be fun and should help cement what I've learned so far on this certification.
