@@ -21,3 +21,7 @@ Finished the mocha & chai exercises on #freeCodeCamp. I'm tempted to continue pl
 ### Day 4: 
 R2/D4 #100DaysOfCode
 Finished reviewing and taking notes on mocha & chai. Started the #freeCodeCamp Metric-Imperial Converter project since I've covered enough to implement that one. Looks like it will be fun and should help cement what I've learned so far on this certification.
+
+### Day 5:
+R2/D5 #100DaysOfCode
+Worked on the #freeCodeCamp Metric Imperial converter project. Implemented a lot of the logic for parsing the input, and a few of the tests with chai. Also wrapped up a really fun project at work where I got to solve a big challenge with SQL and Autohotkey
