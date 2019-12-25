@@ -25,3 +25,13 @@ Finished reviewing and taking notes on mocha & chai. Started the #freeCodeCamp M
 ### Day 5:
 R2/D5 #100DaysOfCode
 Worked on the #freeCodeCamp Metric Imperial converter project. Implemented a lot of the logic for parsing the input, and a few of the tests with chai. Also wrapped up a really fun project at work where I got to solve a big challenge with SQL and Autohotkey
+
+### Day 6:
+R2/D6 #100DaysOfCode #freeCodeCamp
+Improved the input parsing and got a few more tests passing on the Metric Imperial converter project. Also played some Code Combat for the first time with my 9yo daughter this morning. I'm happy to say she enjoyed it almost as much as me😁
+
+### Day 7:
+R2/D7 #100DaysOfCode
+Didn't have a lot of time to code today with all the presents to wrap, but I did get to work on the Metric Imperial converter a little this morning. Improved the error handling and got a couple more tests to pass. 
+
+Merry Christmas & happy coding! 🎅🎄
