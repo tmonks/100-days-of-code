@@ -35,3 +35,9 @@ R2/D7 #100DaysOfCode
 Didn't have a lot of time to code today with all the presents to wrap, but I did get to work on the Metric Imperial converter a little this morning. Improved the error handling and got a couple more tests to pass. 
 
 Merry Christmas & happy coding! 🎅🎄
+
+### Day 8:
+R2/D8 #100DaysOfCode
+Implemented the functional chai tests on the Metric Imperial Converter. Improved the regex for parsing the number input some more. All my tests are finally passing. Now I'm trying to get all the #freeCodeCamp tests to pass (using community-developed tests)
+
+![All chai tests passing](https://pbs.twimg.com/media/EM1YoQMVUAAAuL8?format=png&name=small
