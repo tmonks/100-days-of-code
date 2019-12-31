@@ -40,4 +40,15 @@ Merry Christmas & happy coding! 🎅🎄
 R2/D8 #100DaysOfCode
 Implemented the functional chai tests on the Metric Imperial Converter. Improved the regex for parsing the number input some more. All my tests are finally passing. Now I'm trying to get all the #freeCodeCamp tests to pass (using community-developed tests)
 
-![All chai tests passing](https://pbs.twimg.com/media/EM1YoQMVUAAAuL8?format=png&name=small
+![All chai tests passing](https://pbs.twimg.com/media/EM1YoQMVUAAAuL8?format=png&name=small)
+
+### Day 9:
+R2/D9 #100DaysOfCode 
+Got all the tests to pass, polished up, and submitted the Metric Imperial Converter ✅ That's 1 of 5 projects complete for the Infosec & QA #freeCodeCamp certification 😄
+
+![All FCC Metric Imperial Converter tests passing](https://pbs.twimg.com/media/EM6bX-6WoAIpzXf?format=png&name=small)
+![1 of 5 projects done](https://pbs.twimg.com/media/EM6bX-_XkAEM6Hn?format=png&name=900x900)
+
+### Day 10: 
+R2/D10 #100DaysOfCode
+Got started on my next #freeCodeCamp project, the Issue Tracker. Got all the packages and Mongo DB set up. Tried multiple ways to add an express route only once the db connected, but couldn't get it. Finally had to give in and leave it for tomorrow😌
