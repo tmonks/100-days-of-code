@@ -52,3 +52,7 @@ Got all the tests to pass, polished up, and submitted the Metric Imperial Conver
 ### Day 10: 
 R2/D10 #100DaysOfCode
 Got started on my next #freeCodeCamp project, the Issue Tracker. Got all the packages and Mongo DB set up. Tried multiple ways to add an express route only once the db connected, but couldn't get it. Finally had to give in and leave it for tomorrow😌
+
+### Day 11:
+R2/D11 #100DaysOfCode #freeCodeCamp
+Got MongoDB connected on my Issue Tracker. Implemented saving new issues to the database and retrieving via GET request. Got 5 of the FCC tests passing. Glad to end the year with a productive coding session😊 Happy New Year everyone! 🎉🥳
