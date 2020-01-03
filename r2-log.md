@@ -56,3 +56,11 @@ Got started on my next #freeCodeCamp project, the Issue Tracker. Got all the pac
 ### Day 11:
 R2/D11 #100DaysOfCode #freeCodeCamp
 Got MongoDB connected on my Issue Tracker. Implemented saving new issues to the database and retrieving via GET request. Got 5 of the FCC tests passing. Glad to end the year with a productive coding session😊 Happy New Year everyone! 🎉🥳
+
+![5 FCC tests passing on the Issue Tracker](https://pbs.twimg.com/media/ENKROGDWsAA-gwb?format=png&name=small)
+
+### Day 12:
+R2/D12 #100DaysOfCode
+Implemented the express routes for modifying, deleting, and filtering issues on the #freeCodeCamp Issue Tracker project. Got 5 more FCC tests passing. Man I love the feeling I get after a productive coding session!😁o
+
+![10 FCC tests passing on the Issue Tracker](https://pbs.twimg.com/media/ENUOwu2WkAA4Jna?format=png&name=small)
