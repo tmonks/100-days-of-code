@@ -70,3 +70,9 @@ R2/D13 #100DaysOfCode #freeCodeCamp
 Wrote all the functional chai tests and got the last 5 FCC tests to pass on my Issue Tracker. Just need to do a little polishing and I'll be done with this one 😁
 
 ![All FCC tests passing on the Issue Tracker](https://pbs.twimg.com/media/ENZY5wJX0AAEhEo?format=png&name=small)
+
+### Day 14:
+R2/D14 #100DaysOfCode
+Polished up and submitted my #freeCodeCamp Issue Tracker project. 2 down, 3 to go on my Info Security & QA certification😊
+
+![2 of 5 projects done](https://pbs.twimg.com/media/ENenRCOXUAM9pMp?format=png&name=small)
