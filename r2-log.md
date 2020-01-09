@@ -86,3 +86,7 @@ R2/D16 #100DaysOfCode
 Finished implementing the post, get, and delete routes for the #freeCodeCamp Personal Library project and got all the related tests to pass (10/16 so far). Learned how to hide fields (like __v) returned by mongoose in JSON.
 
 ![10 FCC tests passing on the Personal Library](https://pbs.twimg.com/media/ENt9RmAXkAAjI-f?format=png&name=small)
+
+### Day 17:
+R2/D17 #100DaysOfCode
+I'm getting much better at coding functional tests with chai thanks to all the repetition. Today I implemented all the functional tests, got all the FCC tests to pass, and finished the #freeCodeCamp Personal Library project. 3 down 2 more to go😁
