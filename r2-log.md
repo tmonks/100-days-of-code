@@ -80,3 +80,9 @@ Polished up and submitted my #freeCodeCamp Issue Tracker project. 2 down, 3 to g
 ### Day 15:
 R2/D15 #100DaysOfCode
 Got a good start on my next #freeCodeCamp project, the Personal Library. Set up the Glitch project, the MongoDB, and implemented express routes for posting and getting books. Got the first 4 of the FCC tests to pass.
+
+### Day 16:
+R2/D16 #100DaysOfCode 
+Finished implementing the post, get, and delete routes for the #freeCodeCamp Personal Library project and got all the related tests to pass (10/16 so far). Learned how to hide fields (like __v) returned by mongoose in JSON.
+
+![10 FCC tests passing on the Personal Library](https://pbs.twimg.com/media/ENt9RmAXkAAjI-f?format=png&name=small)
