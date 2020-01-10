@@ -83,10 +83,16 @@ Got a good start on my next #freeCodeCamp project, the Personal Library. Set up 
 
 ### Day 16:
 R2/D16 #100DaysOfCode 
-Finished implementing the post, get, and delete routes for the #freeCodeCamp Personal Library project and got all the related tests to pass (10/16 so far). Learned how to hide fields (like __v) returned by mongoose in JSON.
+Finished implementing the post, get, and delete routes for the #freeCodeCamp Personal Library project and got all the related tests to pass (10/16 so far). Learned how to hide fields (like \_\_v) returned by mongoose in JSON.
 
 ![10 FCC tests passing on the Personal Library](https://pbs.twimg.com/media/ENt9RmAXkAAjI-f?format=png&name=small)
 
 ### Day 17:
 R2/D17 #100DaysOfCode
 I'm getting much better at coding functional tests with chai thanks to all the repetition. Today I implemented all the functional tests, got all the FCC tests to pass, and finished the #freeCodeCamp Personal Library project. 3 down 2 more to go😁
+
+### Day 18:
+R2/D18 #100DaysOfCode
+Got started on the #freeCodeCamp Stock Checker app. Learned how to use composite unique indexes to prevent duplicates in MongoDB. Got 4/6 of the tests to pass. This one's pretty interesting - combining a db with an existing API to track likes.
+
+![4 FCC tests passing on the Stock Checker](https://pbs.twimg.com/media/EN4RSrHWAAAFc-Z?format=png&name=small)
