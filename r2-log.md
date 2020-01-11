@@ -96,3 +96,7 @@ R2/D18 #100DaysOfCode
 Got started on the #freeCodeCamp Stock Checker app. Learned how to use composite unique indexes to prevent duplicates in MongoDB. Got 4/6 of the tests to pass. This one's pretty interesting - combining a db with an existing API to track likes.
 
 ![4 FCC tests passing on the Stock Checker](https://pbs.twimg.com/media/EN4RSrHWAAAFc-Z?format=png&name=small)
+
+### Day 19:
+R2/D19 #100DaysOfCode #freeCodeCamp
+Spent a lot of time today trying to understand how to handle db errors. Learned how to set up error-handling middleware and catch, modify, and re-throw errors to parent functions. My code seems much more graceful and less repetitive now 😎
