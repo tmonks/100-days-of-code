@@ -100,3 +100,9 @@ Got started on the #freeCodeCamp Stock Checker app. Learned how to use composite
 ### Day 19:
 R2/D19 #100DaysOfCode #freeCodeCamp
 Spent a lot of time today trying to understand how to handle db errors. Learned how to set up error-handling middleware and catch, modify, and re-throw errors to parent functions. My code seems much more graceful and less repetitive now 😎
+
+### Day 20:
+R2/D20 #100DaysOfCode 
+Implemented the comparison functionality and all of the functional tests on my Stock Checker #freeCodeCamp app. Got 5 out of 6 of the FCC tests to pass, but I'm not sure why the 6th one won't. I'll have to dig into it more tomorrow 😕
+
+![5 FCC tests passing on the Stock Checker](https://pbs.twimg.com/media/EOCn6YDXsAAzBGI?format=png&name=small)
