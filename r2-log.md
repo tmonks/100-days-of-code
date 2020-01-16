@@ -106,3 +106,15 @@ R2/D20 #100DaysOfCode
 Implemented the comparison functionality and all of the functional tests on my Stock Checker #freeCodeCamp app. Got 5 out of 6 of the FCC tests to pass, but I'm not sure why the 6th one won't. I'll have to dig into it more tomorrow 😕
 
 ![5 FCC tests passing on the Stock Checker](https://pbs.twimg.com/media/EOCn6YDXsAAzBGI?format=png&name=small)
+
+### Day 21:
+R2/D21
+Got the stomach bug yesterday😔, but managed to work on the error in the FCC Backend Tester. Found and fixed several bugs and got all the Stock Checker tests to pass! It was a great experience working on someone else's code for the first time
+\#100DaysOfCode #freeCodeCamp
+
+### Day 22:
+R2/D22
+Finished up and submitted the Stock Price Checker app. 4 down, only 1 to go! Started going through the remaining Advanced Node & Express exercises on FCC before I tackle the last project.
+\#100DaysOfCode #freeCodeCamp
+
+![4 of 5 projects done](https://pbs.twimg.com/media/EORsnZNWkAAHIua?format=png&name=small)
