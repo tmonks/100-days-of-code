@@ -118,3 +118,8 @@ Finished up and submitted the Stock Price Checker app. 4 down, only 1 to go! Sta
 \#100DaysOfCode #freeCodeCamp
 
 ![4 of 5 projects done](https://pbs.twimg.com/media/EORsnZNWkAAHIua?format=png&name=small)
+
+### Day 23:
+R2/D23
+Worked through more of the authentication exercises and started this excellent video by @traversymedia, https://www.youtube.com/watch?v=6FOq4cUdH8k&t=3547s which made it so much easier to understand. Getting excited about being able to implement authentication in my apps.
+\#100DaysOfCode #freeCodeCamp
