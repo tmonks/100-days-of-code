@@ -123,3 +123,8 @@ Finished up and submitted the Stock Price Checker app. 4 down, only 1 to go! Sta
 R2/D23
 Worked through more of the authentication exercises and started this excellent video by @traversymedia, https://www.youtube.com/watch?v=6FOq4cUdH8k&t=3547s which made it so much easier to understand. Getting excited about being able to implement authentication in my apps.
 \#100DaysOfCode #freeCodeCamp
+
+### Day 24:
+R2/D24
+Spent an hour trying to get the GitHub authentication exercises to pass on #freeCodeCamp, only to figure out I was supposed to use a different boilerplate, not make all these unnecessary changes to my current one!😬 
+\#100DaysOfCode #freeCodeCamp
