@@ -128,3 +128,8 @@ Worked through more of the authentication exercises and started this excellent v
 R2/D24
 Spent an hour trying to get the GitHub authentication exercises to pass on #freeCodeCamp, only to figure out I was supposed to use a different boilerplate, not make all these unnecessary changes to my current one!😬 
 \#100DaysOfCode #freeCodeCamp
+
+### Day 25:
+R2/D25
+Got the social authentication challenges to complete (thanks to using the right boilerplate this time)! Learned how to look up the assertions for the FCC tests in GitHub, and fixed a couple tests that weren't passing. Started socket exercises.
+\#100DaysOfCode #freeCodeCamp
