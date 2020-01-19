@@ -133,3 +133,8 @@ Spent an hour trying to get the GitHub authentication exercises to pass on #free
 R2/D25
 Got the social authentication challenges to complete (thanks to using the right boilerplate this time)! Learned how to look up the assertions for the FCC tests in GitHub, and fixed a couple tests that weren't passing. Started socket exercises.
 \#100DaysOfCode #freeCodeCamp
+
+### Day 26:
+R2/D26
+Went back and polished up my Random Quote Machine project and shared it with friends on Facebook. I'd love to create more apps as I'm learning that friends & family will find useful. Anyone have any suggestions or tips on doing that?
+\#100DaysOfCode #freeCodeCamp
