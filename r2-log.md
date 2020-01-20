@@ -138,3 +138,8 @@ Got the social authentication challenges to complete (thanks to using the right 
 R2/D26
 Went back and polished up my Random Quote Machine project and shared it with friends on Facebook. I'd love to create more apps as I'm learning that friends & family will find useful. Anyone have any suggestions or tips on doing that?
 \#100DaysOfCode #freeCodeCamp
+
+### Day 27:
+R2/D27
+Finished up the socket-io exercises on #freeCodeCamp. It was pretty cool learning how to build a little chat app using sockets. Started building the last of the 5 projects for the InfoSec & QA certification projects - the message board.
+\#100DaysOfCode #freeCodeCamp
