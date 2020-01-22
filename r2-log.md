@@ -143,3 +143,13 @@ Went back and polished up my Random Quote Machine project and shared it with fri
 R2/D27
 Finished up the socket-io exercises on #freeCodeCamp. It was pretty cool learning how to build a little chat app using sockets. Started building the last of the 5 projects for the InfoSec & QA certification projects - the message board.
 \#100DaysOfCode #freeCodeCamp
+
+### Day 28:
+R2/D28
+Got the db, first route, and 4 tests working on the Message Board project. I've been looking into some cool #CodeForGood sites. Think I might sign up for this one, which looks cool: https://www.agileventures.org/. Anyone have any experience with it?
+\#100DaysOfCode #freeCodeCamp
+
+### Day 29:
+R2/D29
+Finished implementing the GET and POST routes for the Message Board app. Got the first 7 tests to pass. Learned how to limit the number of subdocuments returned and also exclude certain fields from them in mongoose. Really enjoying the backend!
+\#100DaysOfCode #freeCodeCamp
