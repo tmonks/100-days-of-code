@@ -153,3 +153,8 @@ Got the db, first route, and 4 tests working on the Message Board project. I've 
 R2/D29
 Finished implementing the GET and POST routes for the Message Board app. Got the first 7 tests to pass. Learned how to limit the number of subdocuments returned and also exclude certain fields from them in mongoose. Really enjoying the backend!
 \#100DaysOfCode #freeCodeCamp
+
+### Day 30:
+R2/D30
+Implemented the PUT and DELETE routes to update and delete threads and replies on the Message Board app. Now passing 15/16 tests. All that's left is to implement the functional tests tomorrow😀
+\#100DaysOfCode #freeCodeCamp
