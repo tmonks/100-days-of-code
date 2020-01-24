@@ -158,3 +158,8 @@ Finished implementing the GET and POST routes for the Message Board app. Got the
 R2/D30
 Implemented the PUT and DELETE routes to update and delete threads and replies on the Message Board app. Now passing 15/16 tests. All that's left is to implement the functional tests tomorrow😀
 \#100DaysOfCode #freeCodeCamp
+
+### Day 31
+R2/31
+Implemented functional tests using mocha & chai for the 'thread' routes of my #freeCodeCamp Message Board project. Now all I have left is to do a similar set of tests for the 'replies' route tomorrow and I should be about done with this one! 
+\#100DaysOfCode
