@@ -163,3 +163,12 @@ Implemented the PUT and DELETE routes to update and delete threads and replies o
 R2/31
 Implemented functional tests using mocha & chai for the 'thread' routes of my #freeCodeCamp Message Board project. Now all I have left is to do a similar set of tests for the 'replies' route tomorrow and I should be about done with this one! 
 \#100DaysOfCode
+
+### Day 32
+R2/D32
+Finished up the Message Board app today, the last of the 5 projects, and claimed the Information Security & QA certification!🎉
+
+That's 5 of the #freeCodeCamp certifications down. Now I just have the data viz cert left to complete the full-stack😁
+#100DaysOfCode
+
+![Information Security & Quality Assurance Certification](https://pbs.twimg.com/media/EPFlt9OX0AE0SZ9?format=png&name=small)
