@@ -172,3 +172,8 @@ That's 5 of the #freeCodeCamp certifications down. Now I just have the data viz 
 #100DaysOfCode
 
 ![Information Security & Quality Assurance Certification](https://pbs.twimg.com/media/EPFlt9OX0AE0SZ9?format=png&name=small)
+
+### Day 33
+R2/D33 
+Not much coding this weekend, but I attended an excellent #MLHBuildEvent hosted by @JKim_Tran and @dana7160. It was super inspiring to hear from past #hackathon winners and I worked up the courage to sign up for @hackupstate, my first hackathon in April😁
+\#100DaysOfCode
