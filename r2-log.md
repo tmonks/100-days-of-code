@@ -177,3 +177,11 @@ That's 5 of the #freeCodeCamp certifications down. Now I just have the data viz 
 R2/D33 
 Not much coding this weekend, but I attended an excellent #MLHBuildEvent hosted by @JKim_Tran and @dana7160. It was super inspiring to hear from past #hackathon winners and I worked up the courage to sign up for @hackupstate, my first hackathon in April😁
 \#100DaysOfCode
+
+### Day 34
+R2/D34
+Submitted my first PR today😁 There were a couple things I had trouble with in the #freeCodeCamp curriculum for the last cert, so I thought it'd be a good opportunity to contribute to open source. It was easier than I thought; I just hope it'll be approved🤞
+\#100DaysOfCode
+
+![first pull request](https://pbs.twimg.com/media/EPVIeAjWsAccPv8?format=png&name=small)
+
