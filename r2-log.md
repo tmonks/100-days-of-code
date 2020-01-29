@@ -185,3 +185,19 @@ Submitted my first PR today😁 There were a couple things I had trouble with in
 
 ![first pull request](https://pbs.twimg.com/media/EPVIeAjWsAccPv8?format=png&name=small)
 
+
+### Day 35
+R2/D35
+Completed the 3kyu Battleship Field Validator kata on @codewars and got up to 600 honor points😊
+https://www.codewars.com/kata/52bb6539a4cf1b12d90005b7
+\#100DaysOfCode
+
+Learned the difference between "for...in" and "for...of" syntax in JavaScript:
+
+```
+// use "for...in" to loop through properties IN objects
+for (let property in object) { ... }
+
+// use "for..of" to loop through elements OF arrays or strings 
+for (let element of array) { ... }
+```
