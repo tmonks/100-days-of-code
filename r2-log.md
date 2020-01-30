@@ -201,3 +201,10 @@ for (let property in object) { ... }
 // use "for..of" to loop through elements OF arrays or strings 
 for (let element of array) { ... }
 ```
+
+### Day 36
+R2/D36
+Worked on a 2kyu #codewars kata I've been thinking about for a while - Evaluate Mathematical Equations (https://www.codewars.com/kata/52a78825cdfc2cfc87000005). It passes all but 3 of the tests, so close! I'm sure I'll be obsessing about how to fix it in my sleep tonight 😌
+\#100DaysOfCode
+
+![Failing 3 tests](https://pbs.twimg.com/media/EPfcdSUXkAAPmdS?format=png&name=small)
