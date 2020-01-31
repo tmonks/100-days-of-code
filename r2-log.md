@@ -208,3 +208,10 @@ Worked on a 2kyu #codewars kata I've been thinking about for a while - Evaluate 
 \#100DaysOfCode
 
 ![Failing 3 tests](https://pbs.twimg.com/media/EPfcdSUXkAAPmdS?format=png&name=small)
+
+### Day 37
+R2/D37
+I improved my solution from yesterday, completed my first 2kyu kata and earned 129 honor points on @codewars today! These things are so addicting - I can't stop thinking about them until they're solved, and it's such a good feeling when I finish one😄
+\#100DaysOfCode
+
+![Passed the evaluate mathematical expression Codewars kata](https://pbs.twimg.com/media/EPkdzd-X0AAHgpk?format=png&name=small)
