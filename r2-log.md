@@ -215,3 +215,8 @@ I improved my solution from yesterday, completed my first 2kyu kata and earned 1
 \#100DaysOfCode
 
 ![Passed the evaluate mathematical expression Codewars kata](https://pbs.twimg.com/media/EPkdzd-X0AAHgpk?format=png&name=small)
+
+### Day 38
+R2/D38
+Started brainstorming and designing my first full stack app. I've built a lot of projects for #freeCodeCamp, but this will be the first of my own design. It's both exciting and a little bit scary 😅
+\#100DaysOfCode
