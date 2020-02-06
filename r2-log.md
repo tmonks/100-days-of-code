@@ -220,3 +220,25 @@ I improved my solution from yesterday, completed my first 2kyu kata and earned 1
 R2/D38
 Started brainstorming and designing my first full stack app. I've built a lot of projects for #freeCodeCamp, but this will be the first of my own design. It's both exciting and a little bit scary 😅
 \#100DaysOfCode
+
+### Day 39
+R2/D39
+Started work on my first full stack app - a random family conversation starters app. It's so nice working in VS Code after doing the last 10 projects for #freeCodeCamp on Glitch. Started from scratch, got Express, mongoDB, and the first couple routes set up.
+\#100DaysOfCode
+
+Used this excellent tutorial by @traversymedia to help set up the files and imports for my app, an area I still need more practice in after doing the freeCodeCamp Node projects.
+https://youtube.com/watch?v=k_0ZzvHbNBQ&list=PLillGF-RfqbYRpji8t4SxUkMxfowG4Kqp
+\#100DaysOfCode
+
+### Day 40
+R2/D40
+Tried to update my PR for the freeCodeCamp curriculum and accidentally reset my local branch with the fix 😬 Realizing I have much more to learn about git!
+
+Did some more planning on my conversation starter app. Trying not to go crazy yet with the features
+
+\#100DaysOfCode
+
+### Day 41
+R2/D41
+Did a little more design work on my conversation starter app, implemented another route, and refactored some of the mongoose code. I'm not sure whether it's best to use Promise (.then/.catch) or await/async syntax with mongoose. What are your thoughts?
+\#100DaysOfCode
