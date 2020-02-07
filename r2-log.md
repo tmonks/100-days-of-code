@@ -242,3 +242,11 @@ Did some more planning on my conversation starter app. Trying not to go crazy ye
 R2/D41
 Did a little more design work on my conversation starter app, implemented another route, and refactored some of the mongoose code. I'm not sure whether it's best to use Promise (.then/.catch) or await/async syntax with mongoose. What are your thoughts?
 \#100DaysOfCode
+
+### Day 42
+R2/D42
+My first ever pull request was approved & merged! 🥳 I added a fix to the #freeCodeCamp InfoSec & QA curriculum to make it more clear where you need to switch to the new boilerplate projects. Feels great to have made my first #opensource contribution!
+\#100DaysOfCode
+
+Researched how to set up one-to-many relationships in #MongoDB. Finally came up with a schema for my conversation starter app that I'm happy with 🤓 Decided to use two collections with the conversation prompts containing a reference to their parent category.
+\#100DaysOfCode
