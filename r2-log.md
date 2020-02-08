@@ -250,3 +250,8 @@ My first ever pull request was approved & merged! 🥳 I added a fix to the #fre
 
 Researched how to set up one-to-many relationships in #MongoDB. Finally came up with a schema for my conversation starter app that I'm happy with 🤓 Decided to use two collections with the conversation prompts containing a reference to their parent category.
 \#100DaysOfCode
+
+### Day 43
+R2/D43
+Implemented an express route to return a random prompt on my conversation starter app. Took a lot longer than I thought it would, but I learned about #MongoDB aggregations (like sample, unwind, & project). Feel like I need a whole class on that topic 🥴 
+\#100DaysOfCode
