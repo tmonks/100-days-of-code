@@ -255,3 +255,8 @@ Researched how to set up one-to-many relationships in #MongoDB. Finally came up 
 R2/D43
 Implemented an express route to return a random prompt on my conversation starter app. Took a lot longer than I thought it would, but I learned about #MongoDB aggregations (like sample, unwind, & project). Feel like I need a whole class on that topic 🥴 
 \#100DaysOfCode
+
+### Day 44
+R2/D44
+Refactored my #MongoDB code for retrieving a random conversation starter using countDocuments and skip. Turned out to be a lot harder than I thought to retrieve a random document! Now it's on to the front-end. Hoping I still remember React! 😅 
+\#100DaysOfCode
