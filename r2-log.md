@@ -260,3 +260,8 @@ Implemented an express route to return a random prompt on my conversation starte
 R2/D44
 Refactored my #MongoDB code for retrieving a random conversation starter using countDocuments and skip. Turned out to be a lot harder than I thought to retrieve a random document! Now it's on to the front-end. Hoping I still remember React! 😅 
 \#100DaysOfCode
+
+### Day 45
+R2/D45
+Started on the frontend of my conversation starter app. Set up reactstrap and the navbar components. I really loved all the backend projects, but I'm also excited to get back into React again. It's even cooler now that I'll be connecting to my own API 😀
+\#100DaysOfCode
