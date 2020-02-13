@@ -265,3 +265,8 @@ Refactored my #MongoDB code for retrieving a random conversation starter using c
 R2/D45
 Started on the frontend of my conversation starter app. Set up reactstrap and the navbar components. I really loved all the backend projects, but I'm also excited to get back into React again. It's even cooler now that I'll be connecting to my own API 😀
 \#100DaysOfCode
+
+### Day 46
+R2/D46
+I was worried I'd be really rusty at #reactjs after spending a couple months learning the back-end, but it's all coming back to me now 😀 Got the navbar, category-selection dropdown, and associated state set up. Really enjoying reactstrap.
+\#100DaysOfCode
