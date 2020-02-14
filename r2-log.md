@@ -270,3 +270,8 @@ Started on the frontend of my conversation starter app. Set up reactstrap and th
 R2/D46
 I was worried I'd be really rusty at #reactjs after spending a couple months learning the back-end, but it's all coming back to me now 😀 Got the navbar, category-selection dropdown, and associated state set up. Really enjoying reactstrap.
 \#100DaysOfCode
+
+### Day 47
+R2/D47
+Got the first draft of the front end done in #reactjs and reactstrap. Trying to keep the interface as simple as possible. Now I just need to connect it to the back end and make it look a little more interesting 😅
+\#100DaysOfCode
