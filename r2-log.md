@@ -280,3 +280,10 @@ Got the first draft of the front end done in #reactjs and reactstrap. Trying to 
 R2/D48
 Got the #reactjs front-end of my conversation starter app connected to the back-end to pull in the categories and prompts. I've got to say, it feels pretty awesome seeing it starting to come together and actually pulling in data from my own API 😁
 \#100DaysOfCode
+
+### Day 49
+R2/D49
+Implemented state for the current category selected and requesting prompts from the API filtered to that category.
+\#100DaysOfCode #reactjs
+
+![Animation of category selection](https://twitter.com/i/status/1229698177412009987)
