@@ -287,3 +287,9 @@ Implemented state for the current category selected and requesting prompts from 
 \#100DaysOfCode #reactjs
 
 ![Animation of category selection](https://twitter.com/i/status/1229698177412009987)
+
+### Day 50
+R2/D50
+Half way there😄
+Learned about changing the order of items in Flexbox, and got the items in my navbar to rearrange on smaller screens. Ultimately, I think I'm going to go back to the way it was, so it didn't feel super-productive😌
+\#100DaysOfCode
