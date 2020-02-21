@@ -297,3 +297,9 @@ Learned about changing the order of items in Flexbox, and got the items in my na
 ### Day 51
 R2/D51 #100DaysOfCode
 Implemented React Router for the first time so that I can add an About page and a form to my conversation starter app. It was way easier than I thought it'd be! Followed this brief, but excellent tutorial by @thenetninjauk https://www.youtube.com/watch?v=QUz3k2O3ZJU
+
+### Day 52
+R2/D52
+Didn't get to work on my app, but I did get to do a lot of SQL at work which I enjoy. Successfully modified a report for an urgent request😎
+Answered a couple requests for help on #Nodejs challenges in the #freeCodeCamp forum. Feels good to be able to help.
+\#100DaysOfCode
