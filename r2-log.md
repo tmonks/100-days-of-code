@@ -303,3 +303,8 @@ R2/D52
 Didn't get to work on my app, but I did get to do a lot of SQL at work which I enjoy. Successfully modified a report for an urgent request😎
 Answered a couple requests for help on #Nodejs challenges in the #freeCodeCamp forum. Feels good to be able to help.
 \#100DaysOfCode
+
+### Day 53
+R2/D53
+My personal website really needs some updating, so I focused on that today and changing to a new Bootstrap theme. Needs a lot more work than I can put into it right now. One of these days I'm going to start over and make something I'm really proud of 😌
+\#100DaysOfCode
