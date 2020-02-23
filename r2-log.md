@@ -308,3 +308,8 @@ Answered a couple requests for help on #Nodejs challenges in the #freeCodeCamp f
 R2/D53
 My personal website really needs some updating, so I focused on that today and changing to a new Bootstrap theme. Needs a lot more work than I can put into it right now. One of these days I'm going to start over and make something I'm really proud of 😌
 \#100DaysOfCode
+
+### Day 54
+R2/D54
+Did some more work on my personal website. Worked on overriding some of the default Bootstrap styles. Used CSS variables for the first time (outside of Sass) and, man, have I been missing out! It's so much easier to implement a color scheme this way.
+\#100DaysOfCode
