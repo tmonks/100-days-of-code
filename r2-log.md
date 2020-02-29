@@ -313,3 +313,27 @@ My personal website really needs some updating, so I focused on that today and c
 R2/D54
 Did some more work on my personal website. Worked on overriding some of the default Bootstrap styles. Used CSS variables for the first time (outside of Sass) and, man, have I been missing out! It's so much easier to implement a color scheme this way.
 \#100DaysOfCode
+
+### Day 55
+R2/D55 #100DaysOfCode
+Worked a lot more on my personal website. What was supposed to be a minor update ended up taking a week, and I'm still not done. Anyone else find design to be stressful? It takes me forever to stumble upon something that looks decentRelieved faceI need a design course.
+
+### Day 56
+R2/D56 #100DaysOfCode
+Made some more adjustments to the layout, copy and design of my website. I could keep working on it for weeks and never get it perfectRelieved face, but I'm calling it good enough for now. Appreciate any feedback!
+http://tommonks.net
+
+### Day 57
+R2/D57 #100DaysOfCode 
+Felt nice to get back to my #reactjs  #NodeJS conversation starter app today. Swapped out the Dropdown for navigation with a regular Nav. Spent way too much time figuring out the #bootstrap navbar alignment, but I'm much happier with this approach overall.
+
+### Day 58
+R2/D58 #100DaysOfCode
+Worked some more on the Navbar for my conversation starter app and came up with a navigation solution that I'm so much happier with. Learned how to get the current location from React Router and show the categories drop-down only on the Home route😎
+
+### Day 59
+R2/D59 #100DaysOfCode
+Set up the form for adding new conversation starters and added styles using Sass for the Add and About pages. Looking forward to hooking up the form to my API tomorrow.
+\#ReactJS
+
+
