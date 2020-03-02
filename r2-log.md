@@ -336,4 +336,9 @@ R2/D59 #100DaysOfCode
 Set up the form for adding new conversation starters and added styles using Sass for the Add and About pages. Looking forward to hooking up the form to my API tomorrow.
 \#ReactJS
 
+### Day 60
+R2/D60 #100DaysOfCode
+Hooked up the form to my API using axios to POST new conversation starters. It's so cool getting the backend and frontend working together🤓
 
+Followed this great little guide on using axios to post to an API: https://alligator.io/react/axios-react/
+ #ReactJS #NodeJS 
