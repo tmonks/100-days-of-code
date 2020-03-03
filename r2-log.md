@@ -342,3 +342,9 @@ Hooked up the form to my API using axios to POST new conversation starters. It's
 
 Followed this great little guide on using axios to post to an API: https://alligator.io/react/axios-react/
  #ReactJS #NodeJS 
+
+### Day 61
+R2/D61 #100DaysOfCode
+Added state and functionality to display error and success messages when adding new prompts on my conversation starter app. Wasn't quite sure how to do it at first, but it turned out to be pretty easy😊
+\#ReactJS
+
