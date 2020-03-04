@@ -348,3 +348,6 @@ R2/D61 #100DaysOfCode
 Added state and functionality to display error and success messages when adding new prompts on my conversation starter app. Wasn't quite sure how to do it at first, but it turned out to be pretty easy😊
 \#ReactJS
 
+### Day 62
+R2/D62 #100DaysOfCode
+Started volunteer work on a new website for the nonprofit South Side Stand newspaper. I'm excited to learn about @gatsbyjs,@strapijs and @heroku. Ran into some problems with using heroku with git in cygwin, but I've almost got strapi deployed with postgresql
