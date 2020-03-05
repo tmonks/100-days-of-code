@@ -351,3 +351,7 @@ Added state and functionality to display error and success messages when adding 
 ### Day 62
 R2/D62 #100DaysOfCode
 Started volunteer work on a new website for the nonprofit South Side Stand newspaper. I'm excited to learn about @gatsbyjs,@strapijs and @heroku. Ran into some problems with using heroku with git in cygwin, but I've almost got strapi deployed with postgresql
+
+### Day 63
+R2/D63 #100DaysOfCode
+Worked on input validation on my conversation starter app. Learned about express-validator and added input validation & sanitization the #NodeJS backend. It was way easier than I thought it'd be. Here's a great video I followed: https://www.youtube.com/watch?v=WFHzlExDwrY
