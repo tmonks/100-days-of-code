@@ -355,3 +355,9 @@ Started volunteer work on a new website for the nonprofit South Side Stand newsp
 ### Day 63
 R2/D63 #100DaysOfCode
 Worked on input validation on my conversation starter app. Learned about express-validator and added input validation & sanitization the #NodeJS backend. It was way easier than I thought it'd be. Here's a great video I followed: https://www.youtube.com/watch?v=WFHzlExDwrY
+
+### Day 64
+R2/D64 #100DaysOfCode
+Finished the improvements to error handling on my conversation starter app. Made it so more detailed error messages from express-validator are passed through to the user. Not very glamorous or exciting, but I enjoyed it nonetheless 🤓 
+\#NodeJS
+
