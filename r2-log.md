@@ -361,3 +361,6 @@ R2/D64 #100DaysOfCode
 Finished the improvements to error handling on my conversation starter app. Made it so more detailed error messages from express-validator are passed through to the user. Not very glamorous or exciting, but I enjoyed it nonetheless 🤓 
 \#NodeJS
 
+### Day 65
+R2/D65 #100DaysOfCode
+Focused on my volunteer project today. Worked through some issues using the heroku CLI on cygwin but finally got strapi deployed to heroku😎 Also spent a little time prioritizing features for my conversation starter app. Need to draw the line at some point!
