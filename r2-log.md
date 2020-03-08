@@ -364,3 +364,7 @@ Finished the improvements to error handling on my conversation starter app. Made
 ### Day 65
 R2/D65 #100DaysOfCode
 Focused on my volunteer project today. Worked through some issues using the heroku CLI on cygwin but finally got strapi deployed to heroku😎 Also spent a little time prioritizing features for my conversation starter app. Need to draw the line at some point!
+
+### Day 65
+R2/D66 #100DaysOfCode
+After a week of troubleshooting, I finally got the strapi backend for the newspaper website deployed to Heroku 💪😎 It turned out the main problem was that it was in a subtree of another git repo, and not its own repo. Feels good to finally get that working!
