@@ -365,6 +365,10 @@ Finished the improvements to error handling on my conversation starter app. Made
 R2/D65 #100DaysOfCode
 Focused on my volunteer project today. Worked through some issues using the heroku CLI on cygwin but finally got strapi deployed to heroku😎 Also spent a little time prioritizing features for my conversation starter app. Need to draw the line at some point!
 
-### Day 65
+### Day 66
 R2/D66 #100DaysOfCode
 After a week of troubleshooting, I finally got the strapi backend for the newspaper website deployed to Heroku 💪😎 It turned out the main problem was that it was in a subtree of another git repo, and not its own repo. Feels good to finally get that working!
+
+### Day 67
+R2/D67 #100DaysOfCode
+Came up with a way to prevent random conversation starters from appearing twice in a row. Added an optional parameter with the ID of the last prompt so it doesn't return the same one. There's probably a better way, but this works OK for now😌 #NodeJS
