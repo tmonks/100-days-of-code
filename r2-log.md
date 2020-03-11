@@ -372,3 +372,8 @@ After a week of troubleshooting, I finally got the strapi backend for the newspa
 ### Day 67
 R2/D67 #100DaysOfCode
 Came up with a way to prevent random conversation starters from appearing twice in a row. Added an optional parameter with the ID of the last prompt so it doesn't return the same one. There's probably a better way, but this works OK for now😌 #NodeJS
+
+### Day 68
+R2/D68 #100DaysOfCode
+Refactored the frontend of my conversation starter app to load and store all the prompts from the API in state at once. Now there's no load time each time the user clicks next #ReactJS #NodeJS 
+Also had a great time at my first Open Hack meetup in Syracuse!
