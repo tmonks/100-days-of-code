@@ -377,3 +377,7 @@ Came up with a way to prevent random conversation starters from appearing twice 
 R2/D68 #100DaysOfCode
 Refactored the frontend of my conversation starter app to load and store all the prompts from the API in state at once. Now there's no load time each time the user clicks next #ReactJS #NodeJS 
 Also had a great time at my first Open Hack meetup in Syracuse!
+
+### Day 69
+R2/D69 #100DaysOfCode 
+Worked on improving the loading animation (which is now only necessary when changing categories), and tweaking the layout of my conversation starter app. Feels much more responsive without making an API call for every new prompt #ReactJS #NodeJS 
