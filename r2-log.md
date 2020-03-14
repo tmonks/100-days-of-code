@@ -381,3 +381,21 @@ Also had a great time at my first Open Hack meetup in Syracuse!
 ### Day 69
 R2/D69 #100DaysOfCode 
 Worked on improving the loading animation (which is now only necessary when changing categories), and tweaking the layout of my conversation starter app. Feels much more responsive without making an API call for every new prompt #ReactJS #NodeJS 
+
+### Day 70
+R2/D70 #100DaysOfCode
+Tried out some SVG pattern backgrounds on my conversation starter app and worked on improving its responsiveness.
+
+![Animation of responsiveness](https://twitter.com/i/status/1238249306064371717) 
+
+### Day 71
+R2/D71 #100DaysOfCode
+Spent way too much time trying to pick out a different color scheme for my app, and ended up going back to the original one! All the apps in my portfolio are going to be blue, because that's the only color that seems to look good to meGrimacing face#ReactJS
+
+![Blue background](https://pbs.twimg.com/media/ETBq0CEWoAEDBf7?format=png&name=small)
+![Mint background](https://pbs.twimg.com/media/ETBq3yUXYAAZzd8?format=png&name=360x360)
+![Pink background](https://pbs.twimg.com/media/ETBq30cXgAU479m?format=png&name=360x360)
+
+Worked some more on responsiveness for each of the routes on my conversation starter app, and I'm pretty happy with how it's working. At least I accomplished something other than spending an hour trying to pick out colors 😅 #ReactJS #NodeJS
+
+![Responsiveness animation](https://twitter.com/i/status/1238610360829186049)
