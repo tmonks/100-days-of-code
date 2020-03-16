@@ -399,3 +399,9 @@ Spent way too much time trying to pick out a different color scheme for my app, 
 Worked some more on responsiveness for each of the routes on my conversation starter app, and I'm pretty happy with how it's working. At least I accomplished something other than spending an hour trying to pick out colors 😅 #ReactJS #NodeJS
 
 ![Responsiveness animation](https://twitter.com/i/status/1238610360829186049)
+
+### Day 72
+R2/D72 #100DaysOfCode
+Did a long overdue Windows reinstall on my laptop this weekend. Got my dev environment set up and worked on picking out new fonts and a new name for my app. My 9yo branding consultant helped come up with the new name "Chatter Monkey" 🐵😊
+
+![New Chatter Monkey logo](https://pbs.twimg.com/media/ETL_MnXXYAIH42x?format=png&name=small)
