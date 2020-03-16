@@ -405,3 +405,9 @@ R2/D72 #100DaysOfCode
 Did a long overdue Windows reinstall on my laptop this weekend. Got my dev environment set up and worked on picking out new fonts and a new name for my app. My 9yo branding consultant helped come up with the new name "Chatter Monkey" 🐵😊
 
 ![New Chatter Monkey logo](https://pbs.twimg.com/media/ETL_MnXXYAIH42x?format=png&name=small)
+
+### Day 73
+R2/D73 #100DaysOfCode
+Worked on getting the card to center vertically (which I always struggle with) on small screens. Took way longer than it should have, but I finally got it😅 #ReactJS
+
+![Animation of card centering vertically](blob:https://twitter.com/14775e95-a229-443b-9a24-27f46a921b9c)
