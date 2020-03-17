@@ -410,4 +410,8 @@ Did a long overdue Windows reinstall on my laptop this weekend. Got my dev envir
 R2/D73 #100DaysOfCode
 Worked on getting the card to center vertically (which I always struggle with) on small screens. Took way longer than it should have, but I finally got it😅 #ReactJS
 
-![Animation of card centering vertically](blob:https://twitter.com/14775e95-a229-443b-9a24-27f46a921b9c)
+![Animation of card centering vertically](https://twitter.com/i/status/1239692526736596994)
+
+### Day 74
+R2/D74 #100DaysOfCode
+Worked on cleaning up some obsolete code and testing data, and fixing a couple minor bugs on my conversation starter app. Few more little things to finish up and then I'm going to try to deploy it to Heroku.
