@@ -415,3 +415,10 @@ Worked on getting the card to center vertically (which I always struggle with) o
 ### Day 74
 R2/D74 #100DaysOfCode
 Worked on cleaning up some obsolete code and testing data, and fixing a couple minor bugs on my conversation starter app. Few more little things to finish up and then I'm going to try to deploy it to Heroku.
+
+### Day 75
+R2/D75 #100DaysOfCode
+Worked on filling in the About page, making sure the nav items show when they're active, and implementing some client side error checking. Only a couple more finishing touches, and I should be ready to give Heroku a try.
+\#ReactJS
+
+![Animation of About page and error checking](https://twitter.com/i/status/1240417832803934211)
