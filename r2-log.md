@@ -422,3 +422,7 @@ Worked on filling in the About page, making sure the nav items show when they're
 \#ReactJS
 
 ![Animation of About page and error checking](https://twitter.com/i/status/1240417832803934211)
+
+### Day 76
+R2/D76 #100DaysOfCode 
+Made a couple adjustments to my backend so that new prompts added from the frontend will need to be approved by me. Not sure if I really need to worry about a portfolio project getting spammed, but I'd rather be safe than sorry #ReactJS #NodeJS
