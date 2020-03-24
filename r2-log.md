@@ -426,3 +426,10 @@ Worked on filling in the About page, making sure the nav items show when they're
 ### Day 76
 R2/D76 #100DaysOfCode 
 Made a couple adjustments to my backend so that new prompts added from the frontend will need to be approved by me. Not sure if I really need to worry about a portfolio project getting spammed, but I'd rather be safe than sorry #ReactJS #NodeJS
+
+### Day 77
+R2/D77 #100DaysOfCode
+Got my MERN stack conversation starter app deployed to Heroku. I was surprised how easy it really was. Few more adjustments to make and I'll share it here.  #NodeJS #ReactJS
+
+Here's a great tutorial I followed:
+https://www.youtube.com/watch?v=e1LaekAnVIM&t=1019s
