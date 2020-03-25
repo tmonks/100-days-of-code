@@ -433,3 +433,9 @@ Got my MERN stack conversation starter app deployed to Heroku. I was surprised h
 
 Here's a great tutorial I followed:
 https://www.youtube.com/watch?v=e1LaekAnVIM&t=1019s
+
+### Day 78
+R2/D78 #100DaysOfCode
+Learned how to connect my Heroku app to deploy directly from GitHub.
+Worked on resolving some vulnerabilities in my app with npm. 'npm audit fix' got me down from over 800, now I only have to manually review 583. Great😩
+
