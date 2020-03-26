@@ -439,3 +439,9 @@ R2/D78 #100DaysOfCode
 Learned how to connect my Heroku app to deploy directly from GitHub.
 Worked on resolving some vulnerabilities in my app with npm. 'npm audit fix' got me down from over 800, now I only have to manually review 583. Great😩
 
+
+### Day 79
+R2/D79 #100DaysOfCode
+Researched and started setting up Google Analytics to track views of my #ReactJS app
+Looked into some #coronavirus -related projects to work on next. There are so many amazing, inspiring projects people are working on! 🤯
+helpwithcovid.com
