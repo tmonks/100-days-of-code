@@ -445,3 +445,9 @@ R2/D79 #100DaysOfCode
 Researched and started setting up Google Analytics to track views of my #ReactJS app
 Looked into some #coronavirus -related projects to work on next. There are so many amazing, inspiring projects people are working on! 🤯
 helpwithcovid.com
+
+### Day 80
+R2/D80 #100DaysOfCode
+Got Google Analytics set up in #ReactJS to track page views with Router. After beating my head against the wall for an hour, I realized I was instantiating the history object inside the component itself😬 Here's a great tutorial:
+
+https://levelup.gitconnected.com/using-google-analytics-with-react-3d98d709399b
