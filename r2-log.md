@@ -451,3 +451,15 @@ R2/D80 #100DaysOfCode
 Got Google Analytics set up in #ReactJS to track page views with Router. After beating my head against the wall for an hour, I realized I was instantiating the history object inside the component itself😬 Here's a great tutorial:
 
 https://levelup.gitconnected.com/using-google-analytics-with-react-3d98d709399b
+
+### Day 81
+R2/D81 #100DaysOfCode
+Got Google Analytics event tracking set up so I'm able to track button and link clicks. It'll be nice to be able to track how much people use my app.
+Also got the nav links to right-align on mobile devices (something that had been bugging me)😊  #ReactJSi!
+
+![Animation of right-aligned menu items](https://twitter.com/i/status/1243682571726270465)
+
+### Day 82
+R2/D82 #100DaysOfCode
+Polished up the code on my conversation starter app. Still need to add some more content to it, but I'm pretty happy with it for now. Please try it out and let me know what you think! My first full-stack #ReactJS #NodeJS app:
+https://chattermonkey.herokuapp.com
