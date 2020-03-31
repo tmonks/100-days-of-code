@@ -463,3 +463,11 @@ Also got the nav links to right-align on mobile devices (something that had been
 R2/D82 #100DaysOfCode
 Polished up the code on my conversation starter app. Still need to add some more content to it, but I'm pretty happy with it for now. Please try it out and let me know what you think! My first full-stack #ReactJS #NodeJS app:
 https://chattermonkey.herokuapp.com
+
+### Day 83
+R2/D83 #100DaysOfCode
+Finally got back to working on my volunteer project for the South Side Stand newspaper, and researched the process of migrating data from the current #WordPress site to the new headless strapi CMS. Looks challenging but fun🤓
+
+### Day 84
+R2/D84 #100DaysOfCode
+Worked some more on the WordPress to strapi migration. Getting familiar with the #WordPress API endpoints and started to iron out how the fields for the different items (posts, categories, tags, & users) will map from one to the other.
