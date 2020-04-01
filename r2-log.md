@@ -471,3 +471,9 @@ Finally got back to working on my volunteer project for the South Side Stand new
 ### Day 84
 R2/D84 #100DaysOfCode
 Worked some more on the WordPress to strapi migration. Getting familiar with the #WordPress API endpoints and started to iron out how the fields for the different items (posts, categories, tags, & users) will map from one to the other.
+
+### Day 85
+R2/D85 #100DaysOfCode
+Did a few data visualization exercises on #freeCodeCamp and started learning #D3js. Really enjoying it so far. I loved this exercise where I got to make a simple bar chart just by setting the height of the div's based on the elements in the array🤓
+
+![Simple bar chart in D3](https://pbs.twimg.com/media/EUjgPn7XgAM5bTC?format=png&name=small)
