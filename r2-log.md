@@ -477,3 +477,15 @@ R2/D85 #100DaysOfCode
 Did a few data visualization exercises on #freeCodeCamp and started learning #D3js. Really enjoying it so far. I loved this exercise where I got to make a simple bar chart just by setting the height of the div's based on the elements in the array🤓
 
 ![Simple bar chart in D3](https://pbs.twimg.com/media/EUjgPn7XgAM5bTC?format=png&name=small)
+
+### Day 86
+R2/D86 #100DaysOfCode
+Completed a few more #D3js exercises on #freeCodeCamp. I was intimidated by D3 at first, but so far I'm finding it really fun! Worked up to creating a simple bar chart with labels using SVG.
+
+![Simple SVG bar chart in D3](https://pbs.twimg.com/media/EUqmQlSVAAERIIU?format=png&name=small)
+
+### Day 87
+R2/D87 #100DaysOfCode
+Completed the rest of the #D3js challenges on #freeCodeCamp. Learned about creating a scale using min, max, domain, and range, and how to create axes. On to the API challenges next!
+
+![Scatterplot with axes in D3](https://pbs.twimg.com/media/EUvr54nWAAA_bDC?format=png&name=small)
