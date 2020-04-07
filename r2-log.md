@@ -489,3 +489,15 @@ R2/D87 #100DaysOfCode
 Completed the rest of the #D3js challenges on #freeCodeCamp. Learned about creating a scale using min, max, domain, and range, and how to create axes. On to the API challenges next!
 
 ![Scatterplot with axes in D3](https://pbs.twimg.com/media/EUvr54nWAAA_bDC?format=png&name=small)
+
+### Day 88
+R2/D88 #100DaysOfCode
+Completed all of the API exercises on #freeCodeCamp. I'm excited to start the #D3js data visualization projects, they look really fun.
+
+![10 of 10 API exercises complete](https://pbs.twimg.com/media/EU_D-VSX0AAWvh4?format=png&name=small)
+
+I recently built my first full-stack app, a family conversation starter app. My daughters love using conversation prompts at dinnertime, and helped me with the branding & content Grinning face with smiling eyesLet me know what you think! #100DaysOfCode #ReactJS #NodeJS 
+
+https://chattermonkey.herokuapp.com
+
+![ChatterMonkey screenshot](https://pbs.twimg.com/media/EU_PJbGXkAQTBPA?format=png&name=small)
