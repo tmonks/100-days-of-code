@@ -501,3 +501,7 @@ I recently built my first full-stack app, a family conversation starter app. My 
 https://chattermonkey.herokuapp.com
 
 ![ChatterMonkey screenshot](https://pbs.twimg.com/media/EU_PJbGXkAQTBPA?format=png&name=small)
+
+### Day 89
+R2/D89 #100DaysOfCode
+Helping to automate the member onboarding process for the amazing & inspiring @covidaccel. Learned how to use #JavaScript inside @zapier to parse member skills from @airtable and invite them to the corresponding channels in Slack. This is going to be cool!
