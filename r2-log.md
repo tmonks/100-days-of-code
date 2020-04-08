@@ -505,3 +505,12 @@ https://chattermonkey.herokuapp.com
 ### Day 89
 R2/D89 #100DaysOfCode
 Helping to automate the member onboarding process for the amazing & inspiring @covidaccel. Learned how to use #JavaScript inside @zapier to parse member skills from @airtable and invite them to the corresponding channels in Slack. This is going to be cool!
+
+### Day 90
+R2/D90 #100DaysOfCode
+Got the Slack automation working!
+1. User submits @airtable form
+2. @zapier sends Slack invitation
+3. User joins Slack
+4. Zapier looks up new Slack user's skills in Airtable and determines matching channels in #JavaScript
+5. Zapier invites user to channels
