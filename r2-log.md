@@ -514,3 +514,8 @@ Got the Slack automation working!
 3. User joins Slack
 4. Zapier looks up new Slack user's skills in Airtable and determines matching channels in #JavaScript
 5. Zapier invites user to channels
+
+### Day 91
+R2/D91 #100DaysOfCode
+More data analysis today than coding. I learned how to set up linked tables in @airtable to pull in additional data from another sheet with a 1:1 relationship. 
+Also actually got to do a little #JavaScript in my day job, writing a new filter in Mirth Connect
