@@ -519,3 +519,9 @@ Got the Slack automation working!
 R2/D91 #100DaysOfCode
 More data analysis today than coding. I learned how to set up linked tables in @airtable to pull in additional data from another sheet with a 1:1 relationship. 
 Also actually got to do a little #JavaScript in my day job, writing a new filter in Mirth Connect
+
+### Day 92
+R2/D92 #100DaysOfCode
+Took a couple days off to work on some #coronavirus projects. Got back to #D3js today and started on the first #freeCodeCamp data viz project. Got a pretty good start on it realized definitely I need to go back and learn more about scales!
+
+![Bar Chart first draft](https://pbs.twimg.com/media/EVcLBYzWsAMm6lC?format=png&name=small)
