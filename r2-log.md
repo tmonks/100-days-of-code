@@ -525,3 +525,9 @@ R2/D92 #100DaysOfCode
 Took a couple days off to work on some #coronavirus projects. Got back to #D3js today and started on the first #freeCodeCamp data viz project. Got a pretty good start on it realized definitely I need to go back and learn more about scales!
 
 ![Bar Chart first draft](https://pbs.twimg.com/media/EVcLBYzWsAMm6lC?format=png&name=small)
+
+### Day 93
+R2/D93 #100DaysOfCode
+Worked some more on my #d3js bar chart. Learned about band scales and got that working. Got a couple more of the #freeCodeCamp tests to pass. Implemented my y axis, although it's upside down😅
+
+![Bar chart with upside down y-axis](https://pbs.twimg.com/media/EVjLuswXkAE-7ut?format=png&name=small)
