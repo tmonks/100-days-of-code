@@ -531,3 +531,9 @@ R2/D93 #100DaysOfCode
 Worked some more on my #d3js bar chart. Learned about band scales and got that working. Got a couple more of the #freeCodeCamp tests to pass. Implemented my y axis, although it's upside down😅
 
 ![Bar chart with upside down y-axis](https://pbs.twimg.com/media/EVjLuswXkAE-7ut?format=png&name=small)
+
+### Day 94
+R2/D94 #100DaysOfCode
+Watched some of the great #D3js Udemy course by @thenetninjauk on the treadmill this morning, and it really helped me get my head around inverting the Y scale. Took me 5 minutes to get it right after that! 💪Also learned how to use scaleTime for the x axis.
+
+![Bar chart with both axes](https://pbs.twimg.com/media/EVoRz-nU4AA4ggF?format=png&name=small)
