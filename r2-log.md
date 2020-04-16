@@ -537,3 +537,9 @@ R2/D94 #100DaysOfCode
 Watched some of the great #D3js Udemy course by @thenetninjauk on the treadmill this morning, and it really helped me get my head around inverting the Y scale. Took me 5 minutes to get it right after that! 💪Also learned how to use scaleTime for the x axis.
 
 ![Bar chart with both axes](https://pbs.twimg.com/media/EVoRz-nU4AA4ggF?format=png&name=small)
+
+### Day 95
+R2/D95 #100DaysOfCode
+Got the rest of the tests to pass on my #d3js #freeCodeCamp bar chart project 😎 I still need to figure out the placement of the tooltip, and polish things up a bit, but I should be able to finish it up soon.  
+
+![Bar chart with all tests passing](https://pbs.twimg.com/media/EVteWRPXQAIn6QU?format=png&name=small)
