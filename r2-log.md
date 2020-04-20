@@ -543,3 +543,19 @@ R2/D95 #100DaysOfCode
 Got the rest of the tests to pass on my #d3js #freeCodeCamp bar chart project 😎 I still need to figure out the placement of the tooltip, and polish things up a bit, but I should be able to finish it up soon.  
 
 ![Bar chart with all tests passing](https://pbs.twimg.com/media/EVteWRPXQAIn6QU?format=png&name=small)
+
+### Day 96
+R2/D96 #100DaysOfCode
+Figured out how to get my title center-aligned and picked out a new color scheme (always a time-consuming activity for me Smiling face with open mouth and cold sweat) for my #D3js bar chart. Just need to publish it now and then I'll be ready to move on to the #freeCodeCamp project.
+
+![Bar chart with tooltip and orange color scheme](https://pbs.twimg.com/media/EV35fhlX0AA80x4?format=png&name=small)
+
+Also got my conversation starter app (http://chattermonkey.herokuapp.com) added to my portfolio page (http://tommonks.net). I need to get better about keeping it updated!
+
+### Day 97
+R2/D97 #100DaysOfCode
+Made a couple final tweaks to #D3js bar chart, and got it deployed on GitHub pages (https://tmonks.github.io/d3-bar-chart/)
+
+1 #dataviz project down, 4 more to go😊 #freeCodeCamp
+
+![1 of 5 Data Viz projects done](https://twitter.com/TheTomMonks/status/1252380287356432384/photo/1)
