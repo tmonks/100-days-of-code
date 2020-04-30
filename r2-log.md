@@ -558,4 +558,18 @@ Made a couple final tweaks to #D3js bar chart, and got it deployed on GitHub pag
 
 1 #dataviz project down, 4 more to go😊 #freeCodeCamp
 
-![1 of 5 Data Viz projects done](https://twitter.com/TheTomMonks/status/1252380287356432384/photo/1)
+![1 of 5 Data Viz projects done](https://pbs.twimg.com/media/EWFY4yWU0AE3hdI?format=png&name=small)
+
+### Day 98
+R2/D98 #100DaysOfCode
+Took a little time off last week in order to focus on some work for http://covidaccelerator.com, but am making time for both this week! Started the 2nd of 5 #dataviz #freeCodeCamp projects. Got the scales, axes, and dots all working and 13/16 tests to pass.
+
+![Scatter Plot with 13/16 tests passing](https://pbs.twimg.com/media/EWtnAdLXgAItApB?format=png&name=small)
+
+### Day 99
+R2/D99 #100DaysOfCode
+Added a tooltip. Learned how to build a legend in #d3js. It was much more of a manual process than I thought. Guess I should expect that by now with D3 Smiling face with open mouth and cold sweat
+
+It definitely needs some polishing yet, but at least I got all the #freeCodeCamp tests to pass.
+
+![Scatter Plot with all tests passing](https://pbs.twimg.com/media/EW3t_8oX0AI3LiF?format=png&name=small)
