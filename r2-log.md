@@ -577,3 +577,15 @@ It definitely needs some polishing yet, but at least I got all the #freeCodeCamp
 ### Day 100
 R2/D100🎉#100DaysOfCode
 I'm thrilled to be contributing foodrelief.us, an amazing, meaningful project by Eric Ries which is feeding hundreds of hungry people every day in SF. Learned about Twilio functions and Airtable API to pull info on repeat meal requesters #nodejs
+
+R2/D100 #100DaysOfCode Recap
+My consistency definitely waned at the end of this round as I got involved in some #COVID19 projects, but looking back I'm really happy with what I accomplished:
+- finished InfoSec/QA @freeCodeCamp cert
+- first PR merged
+- first 2kyu @codewars kata
+- revamped personal website
+- developed first full-stack #reactjs #nodejs app
+- learned strapi & heroku
+- completed 1/5 #dataviz #d3js #freeCodeCamp projects
+- joined 3 meaningful #techforgood projects
+- built Twilio function to pull Airtable data for
